@@ -1,0 +1,1291 @@
+====================================================================================================
+Time: 2025-05-25 17:39:13
+
+CeO2/Doped-111/Ov1/Fir-1/W/M/ads
+  61 F= -.64602615E+03 E0= -.64602615E+03  d E =-.189193E-02  mag=     4.0000
+CeO2/Doped-111/Ov1/Fir-1/W/M-H/ads
+ 187 F= -.65094504E+03 E0= -.65094504E+03  d E =-.723743E-03  mag=     5.0000
+CeO2/Doped-111/Ov1/Fir-1/W/M-2H/ads
+ 110 F= -.65305858E+03 E0= -.65305858E+03  d E =-.254836E-03  mag=     4.0000
+CeO2/Doped-111/Ov1/Fir-1/Hg/M/ads
+  75 F= -.62697153E+03 E0= -.62697153E+03  d E =-.251229E-02  mag=    -0.0000
+CeO2/Doped-111/Ov1/Fir-1/Hg/M-H/ads
+  97 F= -.63193794E+03 E0= -.63193794E+03  d E =-.751521E-03  mag=     1.0000
+CeO2/Doped-111/Ov1/Fir-1/Hg/M-2H/ads
+ 132 F= -.63494021E+03 E0= -.63494021E+03  d E =-.309869E-03  mag=     0.0000
+CeO2/Doped-111/Ov1/Fir-1/Ta/M/ads
+  64 F= -.64664513E+03 E0= -.64664036E+03  d E =-.157476E-02  mag=     3.0000
+CeO2/Doped-111/Ov1/Fir-1/Ta/M-H/ads
+ 164 F= -.65191545E+03 E0= -.65191545E+03  d E =-.138793E-02  mag=     4.0000
+CeO2/Doped-111/Ov1/Fir-1/Ta/M-2H/ads
+ 105 F= -.65401895E+03 E0= -.65401895E+03  d E =-.599612E-03  mag=     3.0000
+CeO2/Doped-111/Ov1/Fir-1/Ru/M/ads
+  39 F= -.63615115E+03 E0= -.63615115E+03  d E =-.195853E-02  mag=     6.0000
+CeO2/Doped-111/Ov1/Fir-1/Ru/M-H/ads
+  97 F= -.64098567E+03 E0= -.64098567E+03  d E =-.671841E-03  mag=     5.0000
+CeO2/Doped-111/Ov1/Fir-1/Ru/M-2H/ads
+  72 F= -.64439666E+03 E0= -.64439666E+03  d E =-.154414E-02  mag=     4.0000
+CeO2/Doped-111/Ov1/Fir-1/Cd/M/ads
+  57 F= -.62929310E+03 E0= -.62929310E+03  d E =-.426061E-02  mag=     0.0000
+CeO2/Doped-111/Ov1/Fir-1/Cd/M-H/ads
+  57 F= -.63408075E+03 E0= -.63408075E+03  d E =-.746702E-03  mag=    -1.0000
+CeO2/Doped-111/Ov1/Fir-1/Cd/M-2H/ads
+ 125 F= -.63669705E+03 E0= -.63669705E+03  d E =-.307844E-03  mag=     0.0000
+CeO2/Doped-111/Ov1/Fir-1/Rh/M/ads
+  40 F= -.63321963E+03 E0= -.63321957E+03  d E =-.337874E-02  mag=     3.0000
+CeO2/Doped-111/Ov1/Fir-1/Rh/M-H/ads
+ 155 F= -.63886253E+03 E0= -.63886241E+03  d E =-.739084E-03  mag=    -0.0000
+CeO2/Doped-111/Ov1/Fir-1/Rh/M-2H/ads
+ 101 F= -.64191554E+03 E0= -.64191372E+03  d E =-.337605E-03  mag=     2.9573
+CeO2/Doped-111/Ov1/Fir-1/Ba/M/ads
+  25 F= -.63407857E+03 E0= -.63407857E+03  d E =-.496103E-02  mag=     0.0000
+CeO2/Doped-111/Ov1/Fir-1/Ba/M-H/ads
+  72 F= -.63870070E+03 E0= -.63870070E+03  d E =-.854685E-03  mag=     1.0000
+CeO2/Doped-111/Ov1/Fir-1/Ba/M-2H/ads
+ 108 F= -.63996498E+03 E0= -.63996498E+03  d E =-.330057E-03  mag=     2.0000
+CeO2/Doped-111/Ov1/Fir-1/Al/M/ads
+  49 F= -.63654602E+03 E0= -.63654602E+03  d E =-.381369E-02  mag=     1.0000
+CeO2/Doped-111/Ov1/Fir-1/Al/M-H/ads
+  40 F= -.64169960E+03 E0= -.64169960E+03  d E =-.252060E-02  mag=     0.0000
+CeO2/Doped-111/Ov1/Fir-1/Al/M-2H/ads
+ 107 F= -.64293043E+03 E0= -.64293043E+03  d E =-.202916E-02  mag=     3.0000
+CeO2/Doped-111/Ov1/Fir-1/Ti/M/ads
+  38 F= -.64183453E+03 E0= -.64183453E+03  d E =-.272887E-02  mag=     2.0000
+CeO2/Doped-111/Ov1/Fir-1/Ti/M-H/ads
+  82 F= -.64724457E+03 E0= -.64724457E+03  d E =-.736340E-03  mag=     3.0000
+CeO2/Doped-111/Ov1/Fir-1/Ti/M-2H/ads
+ 124 F= -.64888722E+03 E0= -.64888722E+03  d E =-.353196E-03  mag=     2.0000
+CeO2/Doped-111/Ov1/Fir-1/Mg/M/ads
+  69 F= -.63317433E+03 E0= -.63317433E+03  d E =-.181616E-02  mag=     0.0000
+CeO2/Doped-111/Ov1/Fir-1/Mg/M-H/ads
+  78 F= -.63797274E+03 E0= -.63797274E+03  d E =-.757248E-03  mag=     1.0000
+CeO2/Doped-111/Ov1/Fir-1/Mg/M-2H/ads
+ 160 F= -.64035070E+03 E0= -.64035070E+03  d E =-.547999E-03  mag=     0.0000
+CeO2/Doped-111/Ov1/Fir-1/Ce/M/ads
+  23 F= -.64177908E+03 E0= -.64177908E+03  d E =-.561658E-02  mag=    -2.0000
+CeO2/Doped-111/Ov1/Fir-1/Ce/M-H/ads
+  44 F= -.64615254E+03 E0= -.64615254E+03  d E =-.199528E-02  mag=     3.0000
+CeO2/Doped-111/Ov1/Fir-1/Ce/M-2H/ads
+ 140 F= -.64924023E+03 E0= -.64924023E+03  d E =-.694922E-03  mag=     2.0000
+CeO2/Doped-111/Ov1/Fir-1/Sr/M/ads
+  22 F= -.63433833E+03 E0= -.63433833E+03  d E =-.299046E-02  mag=     0.0000
+CeO2/Doped-111/Ov1/Fir-1/Sr/M-H/ads
+  46 F= -.63903191E+03 E0= -.63903191E+03  d E =-.383592E-03  mag=     1.0000
+CeO2/Doped-111/Ov1/Fir-1/Sr/M-2H/ads
+  96 F= -.64014726E+03 E0= -.64014726E+03  d E =-.623281E-03  mag=    -0.0000
+CeO2/Doped-111/Ov1/Fir-1/Ga/M/ads
+  59 F= -.63302288E+03 E0= -.63302288E+03  d E =-.274097E-02  mag=     1.0000
+CeO2/Doped-111/Ov1/Fir-1/Ga/M-H/ads
+  39 F= -.63811261E+03 E0= -.63811261E+03  d E =-.115301E-02  mag=     2.0000
+CeO2/Doped-111/Ov1/Fir-1/Ga/M-2H/ads
+ 108 F= -.64044853E+03 E0= -.64044853E+03  d E =-.486880E-03  mag=     1.0000
+CeO2/Doped-111/Ov1/Fir-1/Nb/M/ads
+  44 F= -.64455649E+03 E0= -.64454904E+03  d E =-.399717E-02  mag=     3.0000
+CeO2/Doped-111/Ov1/Fir-1/Nb/M-H/ads
+ 114 F= -.64980904E+03 E0= -.64980904E+03  d E =-.631556E-03  mag=     4.0000
+CeO2/Doped-111/Ov1/Fir-1/Nb/M-2H/ads
+ 160 F= -.65187660E+03 E0= -.65187660E+03  d E =-.306504E-03  mag=     3.0000
+CeO2/Doped-111/Ov1/Fir-1/Ir/M/ads
+  63 F= -.63501589E+03 E0= -.63501505E+03  d E =-.240849E-02  mag=     3.0000
+CeO2/Doped-111/Ov1/Fir-1/Ir/M-H/ads
+ 149 F= -.63980134E+03 E0= -.63980132E+03  d E =-.896238E-03  mag=     2.0000
+CeO2/Doped-111/Ov1/Fir-1/Ir/M-2H/ads
+  99 F= -.64351546E+03 E0= -.64351546E+03  d E =-.559953E-03  mag=     3.0000
+CeO2/Doped-111/Ov1/Fir-1/Ge/M/ads
+  85 F= -.63324049E+03 E0= -.63324049E+03  d E =-.382008E-02  mag=     0.0000
+CeO2/Doped-111/Ov1/Fir-1/Ge/M-H/ads
+  55 F= -.63800525E+03 E0= -.63800525E+03  d E =-.312995E-03  mag=    -1.0000
+CeO2/Doped-111/Ov1/Fir-1/Ge/M-2H/ads
+  56 F= -.64209775E+03 E0= -.64209775E+03  d E =-.536481E-02  mag=     2.0000
+CeO2/Doped-111/Ov1/Fir-1/Sc/M/ads
+  58 F= -.64089669E+03 E0= -.64089669E+03  d E =-.257927E-02  mag=     1.0000
+CeO2/Doped-111/Ov1/Fir-1/Sc/M-H/ads
+  77 F= -.64587182E+03 E0= -.64587182E+03  d E =-.367607E-03  mag=     2.0000
+CeO2/Doped-111/Ov1/Fir-1/Sc/M-2H/ads
+ 108 F= -.64818020E+03 E0= -.64818020E+03  d E =-.521734E-03  mag=     1.0000
+CeO2/Doped-111/Ov1/Fir-1/Pb/M/ads
+  27 F= -.63274128E+03 E0= -.63274128E+03  d E =-.269205E-02  mag=     0.0000
+CeO2/Doped-111/Ov1/Fir-1/Pb/M-H/ads
+  52 F= -.63741148E+03 E0= -.63741148E+03  d E =-.478790E-03  mag=     1.0000
+CeO2/Doped-111/Ov1/Fir-1/Pb/M-2H/ads
+ 113 F= -.63904661E+03 E0= -.63904661E+03  d E =-.666428E-03  mag=     2.0000
+CeO2/Doped-111/Ov1/Fir-1/Mo/M/ads
+  61 F= -.64271014E+03 E0= -.64271014E+03  d E =-.274328E-02  mag=     4.0000
+CeO2/Doped-111/Ov1/Fir-1/Mo/M-H/ads
+ 126 F= -.64777508E+03 E0= -.64777508E+03  d E =-.440335E-03  mag=     5.0000
+CeO2/Doped-111/Ov1/Fir-1/Mo/M-2H/ads
+ 135 F= -.64986997E+03 E0= -.64986997E+03  d E =-.382991E-03  mag=     2.0000
+CeO2/Doped-111/Ov1/Fir-1/Fe/M/ads
+Binary file CeO2/Doped-111/Ov1/Fir-1/Fe/M/ads/print_out matches
+CeO2/Doped-111/Ov1/Fir-1/Fe/M-H/ads
+  53 F= -.64194702E+03 E0= -.64194702E+03  d E =-.404253E-03  mag=     7.0000
+CeO2/Doped-111/Ov1/Fir-1/Fe/M-2H/ads
+  50 F= -.64445779E+03 E0= -.64445779E+03  d E =-.935493E-03  mag=     6.0000
+CeO2/Doped-111/Ov1/Fir-1/Co/M/ads
+  51 F= -.63443931E+03 E0= -.63443931E+03  d E =-.390118E-02  mag=     3.0000
+CeO2/Doped-111/Ov1/Fir-1/Co/M-H/ads
+  66 F= -.63937280E+03 E0= -.63937165E+03  d E =-.217277E-02  mag=     5.9745
+CeO2/Doped-111/Ov1/Fir-1/Co/M-2H/ads
+  73 F= -.64225788E+03 E0= -.64225788E+03  d E =-.546317E-03  mag=     3.0000
+CeO2/Doped-111/Ov1/Fir-1/Pt/M/ads
+  27 F= -.63212402E+03 E0= -.63212402E+03  d E =-.189891E-02  mag=    -0.0000
+CeO2/Doped-111/Ov1/Fir-1/Pt/M-H/ads
+  43 F= -.63683110E+03 E0= -.63683110E+03  d E =-.220535E-02  mag=    -1.0000
+CeO2/Doped-111/Ov1/Fir-1/Pt/M-2H/ads
+  89 F= -.64101751E+03 E0= -.64101751E+03  d E =-.115018E-02  mag=     2.0000
+CeO2/Doped-111/Ov1/Fir-1/Ni/M/ads
+  42 F= -.63243913E+03 E0= -.63243913E+03  d E =-.201673E-02  mag=     2.0000
+CeO2/Doped-111/Ov1/Fir-1/Ni/M-H/ads
+  48 F= -.63737076E+03 E0= -.63737076E+03  d E =-.142601E-02  mag=     3.0000
+CeO2/Doped-111/Ov1/Fir-1/Ni/M-2H/ads
+  49 F= -.64029272E+03 E0= -.64029272E+03  d E =-.200147E-02  mag=     2.0000
+CeO2/Doped-111/Ov1/Fir-1/Bi/M/ads
+  69 F= -.63326058E+03 E0= -.63326058E+03  d E =-.204706E-02  mag=     1.0000
+CeO2/Doped-111/Ov1/Fir-1/Bi/M-H/ads
+  52 F= -.63800755E+03 E0= -.63800755E+03  d E =-.330366E-02  mag=    -2.0000
+CeO2/Doped-111/Ov1/Fir-1/Bi/M-2H/ads
+ 116 F= -.64078072E+03 E0= -.64078072E+03  d E =-.593065E-03  mag=     1.0000
+CeO2/Doped-111/Ov1/Fir-1/Tl/M/ads
+  22 F= -.62940553E+03 E0= -.62940553E+03  d E =-.417940E-02  mag=     1.0000
+CeO2/Doped-111/Ov1/Fir-1/Tl/M-H/ads
+  39 F= -.63428803E+03 E0= -.63428803E+03  d E =-.122113E-02  mag=     0.0000
+CeO2/Doped-111/Ov1/Fir-1/Tl/M-2H/ads
+  96 F= -.63730382E+03 E0= -.63730382E+03  d E =-.128575E-02  mag=     1.0000
+CeO2/Doped-111/Ov1/Fir-1/Os/M/ads
+  45 F= -.63845255E+03 E0= -.63845254E+03  d E =-.236340E-02  mag=     4.0001
+CeO2/Doped-111/Ov1/Fir-1/Os/M-H/ads
+  75 F= -.64297106E+03 E0= -.64297106E+03  d E =-.101085E-02  mag=     7.0000
+CeO2/Doped-111/Ov1/Fir-1/Os/M-2H/ads
+ 102 F= -.64609730E+03 E0= -.64608998E+03  d E =-.275120E-03  mag=     6.0000
+CeO2/Doped-111/Ov1/Fir-1/Zr/M/ads
+  54 F= -.64443889E+03 E0= -.64443889E+03  d E =-.301573E-02  mag=     2.0000
+CeO2/Doped-111/Ov1/Fir-1/Zr/M-H/ads
+  51 F= -.64907552E+03 E0= -.64907552E+03  d E =-.102561E-02  mag=     3.0000
+CeO2/Doped-111/Ov1/Fir-1/Zr/M-2H/ads
+  87 F= -.65160443E+03 E0= -.65160443E+03  d E =-.655989E-03  mag=     2.0000
+CeO2/Doped-111/Ov1/Fir-1/Cu/M/ads
+  26 F= -.63011617E+03 E0= -.63011617E+03  d E =-.311813E-02  mag=     1.0000
+CeO2/Doped-111/Ov1/Fir-1/Cu/M-H/ads
+ 100 F= -.63585673E+03 E0= -.63585673E+03  d E =-.319767E-03  mag=     0.0000
+CeO2/Doped-111/Ov1/Fir-1/Cu/M-2H/ads
+  98 F= -.63773546E+03 E0= -.63773546E+03  d E =-.470816E-03  mag=     1.0000
+CeO2/Doped-111/Ov1/Fir-1/Pd/M/ads
+  22 F= -.63151637E+03 E0= -.63151637E+03  d E =-.266495E-02  mag=     0.0000
+CeO2/Doped-111/Ov1/Fir-1/Pd/M-H/ads
+  48 F= -.63650159E+03 E0= -.63650159E+03  d E =-.578329E-03  mag=     1.0000
+CeO2/Doped-111/Ov1/Fir-1/Pd/M-2H/ads
+  84 F= -.63943661E+03 E0= -.63943661E+03  d E =-.659847E-03  mag=     2.0000
+CeO2/Doped-111/Ov1/Fir-1/Sn/M/ads
+  29 F= -.63302626E+03 E0= -.63302626E+03  d E =-.324151E-02  mag=     0.0000
+CeO2/Doped-111/Ov1/Fir-1/Sn/M-H/ads
+  54 F= -.63781252E+03 E0= -.63781252E+03  d E =-.614889E-03  mag=     1.0000
+CeO2/Doped-111/Ov1/Fir-1/Sn/M-2H/ads
+  86 F= -.64146926E+03 E0= -.64146926E+03  d E =-.113672E-02  mag=     0.0000
+CeO2/Doped-111/Ov1/Fir-1/Sb/M/ads
+  80 F= -.63353610E+03 E0= -.63353610E+03  d E =-.163525E-02  mag=     1.0000
+CeO2/Doped-111/Ov1/Fir-1/Sb/M-H/ads
+  71 F= -.63849046E+03 E0= -.63849046E+03  d E =-.675528E-03  mag=     2.0000
+CeO2/Doped-111/Ov1/Fir-1/Sb/M-2H/ads
+  71 F= -.64141804E+03 E0= -.64141804E+03  d E =-.513724E-03  mag=     1.0000
+CeO2/Doped-111/Ov1/Fir-1/Au/M/ads
+  28 F= -.62858237E+03 E0= -.62858237E+03  d E =-.142948E-02  mag=     1.0000
+CeO2/Doped-111/Ov1/Fir-1/Au/M-H/ads
+  81 F= -.63347418E+03 E0= -.63347418E+03  d E =-.273074E-03  mag=     0.0000
+CeO2/Doped-111/Ov1/Fir-1/Au/M-2H/ads
+ 117 F= -.63747005E+03 E0= -.63747005E+03  d E =-.389513E-03  mag=     1.0000
+CeO2/Doped-111/Ov1/Fir-1/Cr/M/ads
+  81 F= -.64021088E+03 E0= -.64021088E+03  d E =-.270026E-02  mag=    -4.0000
+CeO2/Doped-111/Ov1/Fir-1/Cr/M-H/ads
+  75 F= -.64504558E+03 E0= -.64504558E+03  d E =-.528215E-03  mag=     5.0000
+CeO2/Doped-111/Ov1/Fir-1/Cr/M-2H/ads
+  83 F= -.64734087E+03 E0= -.64734087E+03  d E =-.100602E-02  mag=     4.0000
+CeO2/Doped-111/Ov1/Fir-1/Ca/M/ads
+  19 F= -.63492353E+03 E0= -.63492353E+03  d E =-.503060E-02  mag=     0.0000
+CeO2/Doped-111/Ov1/Fir-1/Ca/M-H/ads
+  50 F= -.63968149E+03 E0= -.63968149E+03  d E =-.581121E-03  mag=    -1.0000
+CeO2/Doped-111/Ov1/Fir-1/Ca/M-2H/ads
+ 157 F= -.64236324E+03 E0= -.64236324E+03  d E =-.232785E-03  mag=    -0.0000
+CeO2/Doped-111/Ov1/Fir-1/In/M/ads
+  46 F= -.63204792E+03 E0= -.63204791E+03  d E =-.211978E-02  mag=     1.0000
+CeO2/Doped-111/Ov1/Fir-1/In/M-H/ads
+  48 F= -.63691650E+03 E0= -.63691650E+03  d E =-.844946E-03  mag=     2.0000
+CeO2/Doped-111/Ov1/Fir-1/In/M-2H/ads
+ 140 F= -.63963174E+03 E0= -.63963174E+03  d E =-.802482E-03  mag=     1.0000
+CeO2/Doped-111/Ov1/Fir-1/Hf/M/ads
+  55 F= -.64612918E+03 E0= -.64612918E+03  d E =-.176009E-02  mag=     2.0000
+CeO2/Doped-111/Ov1/Fir-1/Hf/M-H/ads
+  67 F= -.65076349E+03 E0= -.65076349E+03  d E =-.220936E-03  mag=     3.0000
+CeO2/Doped-111/Ov1/Fir-1/Hf/M-2H/ads
+  89 F= -.65325591E+03 E0= -.65325591E+03  d E =-.167343E-02  mag=     2.0000
+CeO2/Doped-111/Ov1/Fir-1/V/M/ads
+  90 F= -.64100195E+03 E0= -.64099743E+03  d E =-.185044E-02  mag=     3.0000
+CeO2/Doped-111/Ov1/Fir-1/V/M-H/ads
+  91 F= -.64703848E+03 E0= -.64703848E+03  d E =-.517275E-03  mag=     4.0000
+CeO2/Doped-111/Ov1/Fir-1/V/M-2H/ads
+ 115 F= -.64846455E+03 E0= -.64846455E+03  d E =-.282165E-03  mag=     3.0000
+CeO2/Doped-111/Ov1/Fir-1/Mn/M/ads
+  62 F= -.63824498E+03 E0= -.63824498E+03  d E =-.154581E-02  mag=    -5.0000
+CeO2/Doped-111/Ov1/Fir-1/Mn/M-H/ads
+  60 F= -.64309576E+03 E0= -.64309576E+03  d E =-.129471E-02  mag=     6.0000
+CeO2/Doped-111/Ov1/Fir-1/Mn/M-2H/ads
+  81 F= -.64595460E+03 E0= -.64595460E+03  d E =-.622075E-03  mag=     5.0000
+CeO2/Doped-111/Ov1/Fir-1/Re/M/ads
+  40 F= -.64246589E+03 E0= -.64246589E+03  d E =-.241545E-02  mag=     5.0000
+CeO2/Doped-111/Ov1/Fir-1/Re/M-H/ads
+ 140 F= -.64731565E+03 E0= -.64731565E+03  d E =-.818537E-03  mag=     6.0000
+CeO2/Doped-111/Ov1/Fir-1/Re/M-2H/ads
+ 120 F= -.65002037E+03 E0= -.65002037E+03  d E =-.642177E-03  mag=     5.0000
+CeO2/Doped-111/Ov1/Fir-1/Tc/M/ads
+  85 F= -.63922684E+03 E0= -.63922684E+03  d E =-.387814E-02  mag=     5.0000
+CeO2/Doped-111/Ov1/Fir-1/Tc/M-H/ads
+ 162 F= -.64476406E+03 E0= -.64476406E+03  d E =-.152755E-02  mag=     6.0000
+CeO2/Doped-111/Ov1/Fir-1/Tc/M-2H/ads
+  58 F= -.64731927E+03 E0= -.64731927E+03  d E =-.762033E-03  mag=     5.0000
+CeO2/Doped-111/Ov1/Fir-1/Zn/M/ads
+  40 F= -.63004300E+03 E0= -.63004300E+03  d E =-.213217E-02  mag=    -0.0000
+CeO2/Doped-111/Ov1/Fir-1/Zn/M-H/ads
+  44 F= -.63495401E+03 E0= -.63495401E+03  d E =-.131981E-02  mag=     1.0000
+CeO2/Doped-111/Ov1/Fir-1/Zn/M-2H/ads
+  95 F= -.63708666E+03 E0= -.63708666E+03  d E =-.106582E-02  mag=     0.0000
+CeO2/Doped-111/Ov1/Fir-1/Y/M/ads
+  16 F= -.64143393E+03 E0= -.64143393E+03  d E =-.458404E-02  mag=     1.0000
+CeO2/Doped-111/Ov1/Fir-1/Y/M-H/ads
+  51 F= -.64622008E+03 E0= -.64622008E+03  d E =-.702085E-03  mag=    -2.0000
+CeO2/Doped-111/Ov1/Fir-1/Y/M-2H/ads
+ 112 F= -.64910924E+03 E0= -.64910924E+03  d E =-.110648E-02  mag=     1.0000
+CeO2/Doped-111/Ov1/Fir-1/Ag/M/ads
+  30 F= -.62882373E+03 E0= -.62882373E+03  d E =-.274479E-02  mag=     1.0000
+CeO2/Doped-111/Ov1/Fir-1/Ag/M-H/ads
+  59 F= -.63410170E+03 E0= -.63410170E+03  d E =-.417200E-03  mag=    -0.0000
+CeO2/Doped-111/Ov1/Fir-1/Ag/M-2H/ads
+ 180 F= -.63649288E+03 E0= -.63649288E+03  d E =-.348776E-03  mag=     1.0000
+CeO2/Doped-111/Ov1/Sec-2/W/M/ads
+  59 F= -.64627288E+03 E0= -.64626976E+03  d E =-.118304E-02  mag=     4.0000
+CeO2/Doped-111/Ov1/Sec-2/W/M-H/ads
+  51 F= -.65023132E+03 E0= -.65023132E+03  d E =-.203310E-02  mag=     5.0000
+CeO2/Doped-111/Ov1/Sec-2/W/M-2H/ads
+  83 F= -.65130811E+03 E0= -.65130811E+03  d E =-.825285E-03  mag=     6.0000
+CeO2/Doped-111/Ov1/Sec-2/Hg/M/ads
+  35 F= -.62721008E+03 E0= -.62721008E+03  d E =-.279249E-02  mag=    -0.0000
+CeO2/Doped-111/Ov1/Sec-2/Hg/M-H/ads
+  87 F= -.63191006E+03 E0= -.63191006E+03  d E =-.217605E-02  mag=    -1.0000
+CeO2/Doped-111/Ov1/Sec-2/Hg/M-2H/ads
+  59 F= -.63472045E+03 E0= -.63472045E+03  d E =-.104183E-02  mag=     0.0000
+CeO2/Doped-111/Ov1/Sec-2/Ta/M/ads
+  69 F= -.64738668E+03 E0= -.64738668E+03  d E =-.359255E-02  mag=     3.0000
+CeO2/Doped-111/Ov1/Sec-2/Ta/M-H/ads
+  57 F= -.65135595E+03 E0= -.65135595E+03  d E =-.931644E-03  mag=     4.0000
+CeO2/Doped-111/Ov1/Sec-2/Ta/M-2H/ads
+  67 F= -.65276380E+03 E0= -.65276380E+03  d E =-.653150E-03  mag=     3.0000
+CeO2/Doped-111/Ov1/Sec-2/Ru/M/ads
+  56 F= -.63640468E+03 E0= -.63640468E+03  d E =-.187800E-02  mag=     2.0000
+CeO2/Doped-111/Ov1/Sec-2/Ru/M-H/ads
+  53 F= -.64106948E+03 E0= -.64106948E+03  d E =-.769744E-03  mag=     5.0000
+CeO2/Doped-111/Ov1/Sec-2/Ru/M-2H/ads
+ 204 F= -.64454192E+03 E0= -.64454192E+03  d E =-.493650E-03  mag=     4.0000
+CeO2/Doped-111/Ov1/Sec-2/Cd/M/ads
+  29 F= -.62945252E+03 E0= -.62945252E+03  d E =-.186279E-02  mag=    -0.0000
+CeO2/Doped-111/Ov1/Sec-2/Cd/M-H/ads
+  60 F= -.63415600E+03 E0= -.63415600E+03  d E =-.764973E-03  mag=     1.0000
+CeO2/Doped-111/Ov1/Sec-2/Cd/M-2H/ads
+  79 F= -.63533616E+03 E0= -.63533616E+03  d E =-.628302E-03  mag=     2.0000
+CeO2/Doped-111/Ov1/Sec-2/Rh/M/ads
+  24 F= -.63372802E+03 E0= -.63372802E+03  d E =-.343889E-02  mag=     1.0000
+CeO2/Doped-111/Ov1/Sec-2/Rh/M-H/ads
+  65 F= -.63862154E+03 E0= -.63862154E+03  d E =-.494309E-02  mag=    -0.0000
+CeO2/Doped-111/Ov1/Sec-2/Rh/M-2H/ads
+  54 F= -.64237935E+03 E0= -.64237935E+03  d E =-.661392E-03  mag=     1.0000
+CeO2/Doped-111/Ov1/Sec-2/Ba/M/ads
+  36 F= -.63442771E+03 E0= -.63442771E+03  d E =-.326847E-02  mag=     0.0000
+CeO2/Doped-111/Ov1/Sec-2/Ba/M-H/ads
+  73 F= -.63900568E+03 E0= -.63900568E+03  d E =-.126535E-02  mag=     1.0000
+CeO2/Doped-111/Ov1/Sec-2/Ba/M-2H/ads
+  87 F= -.64011382E+03 E0= -.64011382E+03  d E =-.374912E-03  mag=     2.0000
+CeO2/Doped-111/Ov1/Sec-2/Al/M/ads
+  35 F= -.63595742E+03 E0= -.63595742E+03  d E =-.389918E-02  mag=     1.0000
+CeO2/Doped-111/Ov1/Sec-2/Al/M-H/ads
+  66 F= -.64079869E+03 E0= -.64079869E+03  d E =-.120869E-02  mag=     2.0000
+CeO2/Doped-111/Ov1/Sec-2/Al/M-2H/ads
+  83 F= -.64187257E+03 E0= -.64187257E+03  d E =-.394125E-03  mag=     3.0000
+CeO2/Doped-111/Ov1/Sec-2/Ti/M/ads
+  45 F= -.64220187E+03 E0= -.64220187E+03  d E =-.208686E-02  mag=     2.0000
+CeO2/Doped-111/Ov1/Sec-2/Ti/M-H/ads
+  63 F= -.64652365E+03 E0= -.64652365E+03  d E =-.107804E-02  mag=     3.0000
+CeO2/Doped-111/Ov1/Sec-2/Ti/M-2H/ads
+  97 F= -.64763751E+03 E0= -.64763751E+03  d E =-.730067E-03  mag=     4.0000
+CeO2/Doped-111/Ov1/Sec-2/Mg/M/ads
+  28 F= -.63306874E+03 E0= -.63306874E+03  d E =-.384700E-02  mag=    -0.0000
+CeO2/Doped-111/Ov1/Sec-2/Mg/M-H/ads
+  52 F= -.63778672E+03 E0= -.63778672E+03  d E =-.718877E-03  mag=     1.0000
+CeO2/Doped-111/Ov1/Sec-2/Mg/M-2H/ads
+  84 F= -.63889486E+03 E0= -.63889486E+03  d E =-.713557E-03  mag=     0.0000
+CeO2/Doped-111/Ov1/Sec-2/Ce/M/ads
+  60 F= -.64212790E+03 E0= -.64212790E+03  d E =-.258091E-02  mag=     2.0000
+CeO2/Doped-111/Ov1/Sec-2/Ce/M-H/ads
+  46 F= -.64622694E+03 E0= -.64622694E+03  d E =-.575373E-03  mag=     3.0000
+CeO2/Doped-111/Ov1/Sec-2/Ce/M-2H/ads
+  91 F= -.64889804E+03 E0= -.64889804E+03  d E =-.124300E-02  mag=     2.0000
+CeO2/Doped-111/Ov1/Sec-2/Sr/M/ads
+  30 F= -.63464994E+03 E0= -.63464994E+03  d E =-.290401E-02  mag=    -0.0000
+CeO2/Doped-111/Ov1/Sec-2/Sr/M-H/ads
+  62 F= -.63923374E+03 E0= -.63923374E+03  d E =-.828202E-03  mag=     1.0000
+CeO2/Doped-111/Ov1/Sec-2/Sr/M-2H/ads
+  73 F= -.64033674E+03 E0= -.64033674E+03  d E =-.767966E-03  mag=    -0.0000
+CeO2/Doped-111/Ov1/Sec-2/Ga/M/ads
+  43 F= -.63278146E+03 E0= -.63278146E+03  d E =-.144169E-02  mag=     1.0000
+CeO2/Doped-111/Ov1/Sec-2/Ga/M-H/ads
+  61 F= -.63751312E+03 E0= -.63751312E+03  d E =-.133103E-02  mag=     2.0000
+CeO2/Doped-111/Ov1/Sec-2/Ga/M-2H/ads
+  75 F= -.63866540E+03 E0= -.63866540E+03  d E =-.126698E-02  mag=     3.0000
+CeO2/Doped-111/Ov1/Sec-2/Nb/M/ads
+  60 F= -.64528394E+03 E0= -.64528394E+03  d E =-.546866E-02  mag=     3.0000
+CeO2/Doped-111/Ov1/Sec-2/Nb/M-H/ads
+  67 F= -.64925029E+03 E0= -.64925029E+03  d E =-.115426E-02  mag=     4.0000
+CeO2/Doped-111/Ov1/Sec-2/Nb/M-2H/ads
+  77 F= -.65067714E+03 E0= -.65067714E+03  d E =-.897290E-03  mag=     3.0000
+CeO2/Doped-111/Ov1/Sec-2/Ir/M/ads
+  39 F= -.63535494E+03 E0= -.63535494E+03  d E =-.204501E-02  mag=     1.0000
+CeO2/Doped-111/Ov1/Sec-2/Ir/M-H/ads
+  95 F= -.63962895E+03 E0= -.63962895E+03  d E =-.488609E-03  mag=     2.0000
+CeO2/Doped-111/Ov1/Sec-2/Ir/M-2H/ads
+  61 F= -.64352435E+03 E0= -.64352435E+03  d E =-.418294E-03  mag=     3.0000
+CeO2/Doped-111/Ov1/Sec-2/Ge/M/ads
+  33 F= -.63325682E+03 E0= -.63325682E+03  d E =-.362764E-02  mag=     0.0000
+CeO2/Doped-111/Ov1/Sec-2/Ge/M-H/ads
+  74 F= -.63793028E+03 E0= -.63793028E+03  d E =-.671354E-03  mag=     1.0000
+CeO2/Doped-111/Ov1/Sec-2/Ge/M-2H/ads
+ 149 F= -.64147345E+03 E0= -.64147345E+03  d E =-.546548E-03  mag=     2.0000
+CeO2/Doped-111/Ov1/Sec-2/Sc/M/ads
+  23 F= -.64089467E+03 E0= -.64089467E+03  d E =-.366315E-02  mag=     1.0000
+CeO2/Doped-111/Ov1/Sec-2/Sc/M-H/ads
+  63 F= -.64564328E+03 E0= -.64564328E+03  d E =-.124309E-02  mag=     2.0000
+CeO2/Doped-111/Ov1/Sec-2/Sc/M-2H/ads
+  62 F= -.64671177E+03 E0= -.64671177E+03  d E =-.880449E-03  mag=     3.0000
+CeO2/Doped-111/Ov1/Sec-2/Pb/M/ads
+  78 F= -.63284557E+03 E0= -.63284557E+03  d E =-.472380E-02  mag=     0.0000
+CeO2/Doped-111/Ov1/Sec-2/Pb/M-H/ads
+  59 F= -.63729772E+03 E0= -.63729772E+03  d E =-.113533E-02  mag=    -1.0000
+CeO2/Doped-111/Ov1/Sec-2/Pb/M-2H/ads
+  85 F= -.63891173E+03 E0= -.63891173E+03  d E =-.770580E-03  mag=     0.0000
+CeO2/Doped-111/Ov1/Sec-2/Mo/M/ads
+ 103 F= -.64344249E+03 E0= -.64344249E+03  d E =-.295263E-02  mag=     4.0000
+CeO2/Doped-111/Ov1/Sec-2/Mo/M-H/ads
+  77 F= -.64717647E+03 E0= -.64717647E+03  d E =-.556419E-03  mag=     5.0000
+CeO2/Doped-111/Ov1/Sec-2/Mo/M-2H/ads
+  87 F= -.64893743E+03 E0= -.64893743E+03  d E =-.718474E-03  mag=     4.0000
+CeO2/Doped-111/Ov1/Sec-2/Fe/M/ads
+  38 F= -.63656899E+03 E0= -.63656899E+03  d E =-.386948E-02  mag=    -6.0000
+CeO2/Doped-111/Ov1/Sec-2/Fe/M-H/ads
+  59 F= -.64146395E+03 E0= -.64146395E+03  d E =-.171917E-02  mag=     5.0000
+CeO2/Doped-111/Ov1/Sec-2/Fe/M-2H/ads
+  72 F= -.64247796E+03 E0= -.64247796E+03  d E =-.616834E-03  mag=     8.0000
+CeO2/Doped-111/Ov1/Sec-2/Co/M/ads
+  28 F= -.63407904E+03 E0= -.63407904E+03  d E =-.265115E-02  mag=     3.0000
+CeO2/Doped-111/Ov1/Sec-2/Co/M-H/ads
+  57 F= -.63877973E+03 E0= -.63877973E+03  d E =-.514078E-03  mag=     2.0000
+CeO2/Doped-111/Ov1/Sec-2/Co/M-2H/ads
+ 117 F= -.64139356E+03 E0= -.64139356E+03  d E =-.527721E-03  mag=     1.0000
+CeO2/Doped-111/Ov1/Sec-2/Pt/M/ads
+  28 F= -.63247042E+03 E0= -.63247042E+03  d E =-.325088E-02  mag=     0.0000
+CeO2/Doped-111/Ov1/Sec-2/Pt/M-H/ads
+  51 F= -.63744542E+03 E0= -.63744542E+03  d E =-.504042E-03  mag=     1.0000
+CeO2/Doped-111/Ov1/Sec-2/Pt/M-2H/ads
+  86 F= -.64092423E+03 E0= -.64092423E+03  d E =-.618075E-03  mag=     0.0000
+CeO2/Doped-111/Ov1/Sec-2/Ni/M/ads
+  82 F= -.63335521E+03 E0= -.63335521E+03  d E =-.205526E-02  mag=    -0.0000
+CeO2/Doped-111/Ov1/Sec-2/Ni/M-H/ads
+  58 F= -.63778510E+03 E0= -.63778510E+03  d E =-.109749E-02  mag=     1.0000
+CeO2/Doped-111/Ov1/Sec-2/Ni/M-2H/ads
+  62 F= -.63983670E+03 E0= -.63983670E+03  d E =-.416623E-03  mag=     0.0000
+CeO2/Doped-111/Ov1/Sec-2/Bi/M/ads
+  27 F= -.63314250E+03 E0= -.63314250E+03  d E =-.267093E-02  mag=     1.0000
+CeO2/Doped-111/Ov1/Sec-2/Bi/M-H/ads
+  46 F= -.63770571E+03 E0= -.63770571E+03  d E =-.153132E-02  mag=    -0.0000
+CeO2/Doped-111/Ov1/Sec-2/Bi/M-2H/ads
+  90 F= -.63973268E+03 E0= -.63973268E+03  d E =-.431932E-03  mag=    -1.0000
+CeO2/Doped-111/Ov1/Sec-2/Tl/M/ads
+  21 F= -.62966573E+03 E0= -.62966573E+03  d E =-.404721E-02  mag=     1.0000
+CeO2/Doped-111/Ov1/Sec-2/Tl/M-H/ads
+  33 F= -.63443174E+03 E0= -.63443174E+03  d E =-.150942E-02  mag=     2.0000
+CeO2/Doped-111/Ov1/Sec-2/Tl/M-2H/ads
+ 115 F= -.63668378E+03 E0= -.63668378E+03  d E =-.707787E-03  mag=     1.0000
+CeO2/Doped-111/Ov1/Sec-2/Os/M/ads
+  44 F= -.63969158E+03 E0= -.63969158E+03  d E =-.245652E-02  mag=    -2.0000
+CeO2/Doped-111/Ov1/Sec-2/Os/M-H/ads
+  92 F= -.64377595E+03 E0= -.64377595E+03  d E =-.874568E-03  mag=     7.0000
+CeO2/Doped-111/Ov1/Sec-2/Os/M-2H/ads
+  76 F= -.64679340E+03 E0= -.64679336E+03  d E =-.503419E-03  mag=     6.0000
+CeO2/Doped-111/Ov1/Sec-2/Zr/M/ads
+  60 F= -.64471484E+03 E0= -.64471484E+03  d E =-.256468E-02  mag=    -2.0000
+CeO2/Doped-111/Ov1/Sec-2/Zr/M-H/ads
+  59 F= -.64888841E+03 E0= -.64888841E+03  d E =-.475936E-03  mag=     3.0000
+CeO2/Doped-111/Ov1/Sec-2/Zr/M-2H/ads
+  68 F= -.64999045E+03 E0= -.64999045E+03  d E =-.514881E-03  mag=     4.0000
+CeO2/Doped-111/Ov1/Sec-2/Cu/M/ads
+  30 F= -.63044364E+03 E0= -.63044364E+03  d E =-.254226E-02  mag=    -1.0000
+CeO2/Doped-111/Ov1/Sec-2/Cu/M-H/ads
+  53 F= -.63529212E+03 E0= -.63529212E+03  d E =-.435456E-03  mag=    -0.0000
+CeO2/Doped-111/Ov1/Sec-2/Cu/M-2H/ads
+  86 F= -.63782391E+03 E0= -.63782391E+03  d E =-.422067E-03  mag=     1.0000
+CeO2/Doped-111/Ov1/Sec-2/Pd/M/ads
+  46 F= -.63120314E+03 E0= -.63120275E+03  d E =-.227685E-02  mag=     1.9925
+CeO2/Doped-111/Ov1/Sec-2/Pd/M-H/ads
+  67 F= -.63676262E+03 E0= -.63676262E+03  d E =-.446680E-03  mag=     1.0000
+CeO2/Doped-111/Ov1/Sec-2/Pd/M-2H/ads
+  47 F= -.63947725E+03 E0= -.63947725E+03  d E =-.160493E-02  mag=    -0.0000
+CeO2/Doped-111/Ov1/Sec-2/Sn/M/ads
+  27 F= -.63430061E+03 E0= -.63430061E+03  d E =-.445250E-02  mag=     2.0000
+CeO2/Doped-111/Ov1/Sec-2/Sn/M-H/ads
+  55 F= -.63876499E+03 E0= -.63876499E+03  d E =-.223374E-02  mag=     3.0000
+CeO2/Doped-111/Ov1/Sec-2/Sn/M-2H/ads
+  66 F= -.64075688E+03 E0= -.64075688E+03  d E =-.765032E-03  mag=     2.0000
+CeO2/Doped-111/Ov1/Sec-2/Sb/M/ads
+  35 F= -.63333891E+03 E0= -.63333891E+03  d E =-.391651E-02  mag=     1.0000
+CeO2/Doped-111/Ov1/Sec-2/Sb/M-H/ads
+  57 F= -.63784633E+03 E0= -.63784633E+03  d E =-.575333E-03  mag=     2.0000
+CeO2/Doped-111/Ov1/Sec-2/Sb/M-2H/ads
+  50 F= -.64028238E+03 E0= -.64028238E+03  d E =-.939245E-03  mag=     1.0000
+CeO2/Doped-111/Ov1/Sec-2/Au/M/ads
+  24 F= -.62895445E+03 E0= -.62895445E+03  d E =-.475196E-02  mag=     1.0000
+CeO2/Doped-111/Ov1/Sec-2/Au/M-H/ads
+  73 F= -.63425244E+03 E0= -.63425244E+03  d E =-.273590E-02  mag=    -2.0000
+CeO2/Doped-111/Ov1/Sec-2/Au/M-2H/ads
+ 190 F= -.63889756E+03 E0= -.63889756E+03  d E =-.374916E-03  mag=     1.0000
+CeO2/Doped-111/Ov1/Sec-2/Cr/M/ads
+  56 F= -.63996814E+03 E0= -.63996814E+03  d E =-.226061E-02  mag=    -4.0000
+CeO2/Doped-111/Ov1/Sec-2/Cr/M-H/ads
+  68 F= -.64408873E+03 E0= -.64408873E+03  d E =-.821817E-03  mag=     5.0000
+CeO2/Doped-111/Ov1/Sec-2/Cr/M-2H/ads
+ 151 F= -.64852684E+03 E0= -.64852684E+03  d E =-.128766E-02  mag=     4.0000
+CeO2/Doped-111/Ov1/Sec-2/Ca/M/ads
+  61 F= -.63524043E+03 E0= -.63524043E+03  d E =-.199767E-02  mag=     0.0000
+CeO2/Doped-111/Ov1/Sec-2/Ca/M-H/ads
+  66 F= -.63974225E+03 E0= -.63974225E+03  d E =-.330953E-02  mag=     1.0000
+CeO2/Doped-111/Ov1/Sec-2/Ca/M-2H/ads
+  82 F= -.64096416E+03 E0= -.64096416E+03  d E =-.240141E-03  mag=     2.0000
+CeO2/Doped-111/Ov1/Sec-2/In/M/ads
+  39 F= -.63228116E+03 E0= -.63228116E+03  d E =-.313408E-02  mag=    -1.0000
+CeO2/Doped-111/Ov1/Sec-2/In/M-H/ads
+  45 F= -.63704679E+03 E0= -.63704679E+03  d E =-.807332E-03  mag=     2.0000
+CeO2/Doped-111/Ov1/Sec-2/In/M-2H/ads
+ 110 F= -.63885921E+03 E0= -.63885921E+03  d E =-.587146E-03  mag=    -1.0000
+CeO2/Doped-111/Ov1/Sec-2/Hf/M/ads
+  50 F= -.64636597E+03 E0= -.64636597E+03  d E =-.665183E-02  mag=     2.0000
+CeO2/Doped-111/Ov1/Sec-2/Hf/M-H/ads
+  48 F= -.65061843E+03 E0= -.65061843E+03  d E =-.164158E-02  mag=     3.0000
+CeO2/Doped-111/Ov1/Sec-2/Hf/M-2H/ads
+  68 F= -.65172539E+03 E0= -.65172539E+03  d E =-.557630E-03  mag=     4.0000
+CeO2/Doped-111/Ov1/Sec-2/V/M/ads
+  50 F= -.64187724E+03 E0= -.64187723E+03  d E =-.210219E-02  mag=     3.0000
+CeO2/Doped-111/Ov1/Sec-2/V/M-H/ads
+  76 F= -.64628165E+03 E0= -.64628165E+03  d E =-.264030E-03  mag=     4.0000
+CeO2/Doped-111/Ov1/Sec-2/V/M-2H/ads
+  96 F= -.64735521E+03 E0= -.64735521E+03  d E =-.823958E-03  mag=     5.0000
+CeO2/Doped-111/Ov1/Sec-2/Mn/M/ads
+  32 F= -.63810516E+03 E0= -.63810516E+03  d E =-.326823E-02  mag=    -5.0000
+CeO2/Doped-111/Ov1/Sec-2/Mn/M-H/ads
+  83 F= -.64331931E+03 E0= -.64331931E+03  d E =-.680244E-03  mag=    -2.0000
+CeO2/Doped-111/Ov1/Sec-2/Mn/M-2H/ads
+ 113 F= -.64631748E+03 E0= -.64631748E+03  d E =-.148888E-02  mag=    -5.0000
+CeO2/Doped-111/Ov1/Sec-2/Re/M/ads
+  45 F= -.64307231E+03 E0= -.64307231E+03  d E =-.254856E-02  mag=     5.0000
+CeO2/Doped-111/Ov1/Sec-2/Re/M-H/ads
+  95 F= -.64699476E+03 E0= -.64699476E+03  d E =-.810764E-03  mag=     6.0000
+CeO2/Doped-111/Ov1/Sec-2/Re/M-2H/ads
+  69 F= -.64869201E+03 E0= -.64869173E+03  d E =-.227369E-02  mag=     5.0000
+CeO2/Doped-111/Ov1/Sec-2/Tc/M/ads
+ 102 F= -.64057220E+03 E0= -.64057220E+03  d E =-.147276E-02  mag=     1.0000
+CeO2/Doped-111/Ov1/Sec-2/Tc/M-H/ads
+  61 F= -.64427539E+03 E0= -.64427539E+03  d E =-.123714E-02  mag=     6.0000
+CeO2/Doped-111/Ov1/Sec-2/Tc/M-2H/ads
+  63 F= -.64611313E+03 E0= -.64611313E+03  d E =-.101389E-01  mag=     5.0000
+CeO2/Doped-111/Ov1/Sec-2/Zn/M/ads
+  69 F= -.62984389E+03 E0= -.62984389E+03  d E =-.187401E-02  mag=    -0.0000
+CeO2/Doped-111/Ov1/Sec-2/Zn/M-H/ads
+  52 F= -.63445281E+03 E0= -.63445281E+03  d E =-.185905E-02  mag=     1.0000
+CeO2/Doped-111/Ov1/Sec-2/Zn/M-2H/ads
+  81 F= -.63679124E+03 E0= -.63679124E+03  d E =-.108602E-02  mag=     0.0000
+CeO2/Doped-111/Ov1/Sec-2/Y/M/ads
+  65 F= -.64177416E+03 E0= -.64177416E+03  d E =-.196236E-02  mag=     1.0000
+CeO2/Doped-111/Ov1/Sec-2/Y/M-H/ads
+  40 F= -.64626766E+03 E0= -.64626766E+03  d E =-.125815E-02  mag=    -2.0000
+CeO2/Doped-111/Ov1/Sec-2/Y/M-2H/ads
+  76 F= -.64737399E+03 E0= -.64737399E+03  d E =-.259187E-03  mag=    -1.0000
+CeO2/Doped-111/Ov1/Sec-2/Ag/M/ads
+  27 F= -.62900822E+03 E0= -.62900822E+03  d E =-.397359E-02  mag=     1.0000
+CeO2/Doped-111/Ov1/Sec-2/Ag/M-H/ads
+  39 F= -.63427086E+03 E0= -.63427086E+03  d E =-.734085E-03  mag=     0.0000
+CeO2/Doped-111/Ov1/Sec-2/Ag/M-2H/ads
+  59 F= -.63600999E+03 E0= -.63600999E+03  d E =-.105098E-02  mag=     1.0000
+CeO2/Doped-111/Ov1/Fir-2/W/M/ads
+  61 F= -.64602615E+03 E0= -.64602615E+03  d E =-.189193E-02  mag=     4.0000
+CeO2/Doped-111/Ov1/Fir-2/W/M-H/ads
+ 187 F= -.65094504E+03 E0= -.65094504E+03  d E =-.723743E-03  mag=     5.0000
+CeO2/Doped-111/Ov1/Fir-2/W/M-2H/ads
+  80 F= -.65281727E+03 E0= -.65281727E+03  d E =-.592603E-03  mag=     4.0000
+CeO2/Doped-111/Ov1/Fir-2/Hg/M/ads
+  20 F= -.62690631E+03 E0= -.62690631E+03  d E =-.379803E-02  mag=     0.0000
+CeO2/Doped-111/Ov1/Fir-2/Hg/M-H/ads
+  97 F= -.63193794E+03 E0= -.63193794E+03  d E =-.751521E-03  mag=     1.0000
+CeO2/Doped-111/Ov1/Fir-2/Ta/M/ads
+  64 F= -.64664513E+03 E0= -.64664036E+03  d E =-.157476E-02  mag=     3.0000
+CeO2/Doped-111/Ov1/Fir-2/Ta/M-H/ads
+ 164 F= -.65191545E+03 E0= -.65191545E+03  d E =-.138793E-02  mag=     4.0000
+CeO2/Doped-111/Ov1/Fir-2/Ta/M-2H/ads
+ 101 F= -.65401772E+03 E0= -.65401772E+03  d E =-.815757E-03  mag=    -1.0000
+CeO2/Doped-111/Ov1/Fir-2/Ru/M/ads
+  39 F= -.63615115E+03 E0= -.63615115E+03  d E =-.195853E-02  mag=     6.0000
+CeO2/Doped-111/Ov1/Fir-2/Ru/M-H/ads
+  97 F= -.64098567E+03 E0= -.64098567E+03  d E =-.671841E-03  mag=     5.0000
+CeO2/Doped-111/Ov1/Fir-2/Ru/M-2H/ads
+ 112 F= -.64209736E+03 E0= -.64209736E+03  d E =-.109222E-02  mag=     6.0000
+CeO2/Doped-111/Ov1/Fir-2/Cd/M/ads
+  57 F= -.62929310E+03 E0= -.62929310E+03  d E =-.426061E-02  mag=     0.0000
+CeO2/Doped-111/Ov1/Fir-2/Cd/M-H/ads
+  57 F= -.63408075E+03 E0= -.63408075E+03  d E =-.746702E-03  mag=    -1.0000
+CeO2/Doped-111/Ov1/Fir-2/Cd/M-2H/ads
+ 128 F= -.63669395E+03 E0= -.63669395E+03  d E =-.398777E-03  mag=     0.0000
+CeO2/Doped-111/Ov1/Fir-2/Rh/M/ads
+  40 F= -.63321963E+03 E0= -.63321957E+03  d E =-.337874E-02  mag=     3.0000
+CeO2/Doped-111/Ov1/Fir-2/Rh/M-H/ads
+ 155 F= -.63886253E+03 E0= -.63886241E+03  d E =-.739084E-03  mag=    -0.0000
+CeO2/Doped-111/Ov1/Fir-2/Rh/M-2H/ads
+ 107 F= -.63956589E+03 E0= -.63956589E+03  d E =-.475025E-02  mag=     3.0000
+CeO2/Doped-111/Ov1/Fir-2/Ba/M/ads
+  25 F= -.63407857E+03 E0= -.63407857E+03  d E =-.496103E-02  mag=     0.0000
+CeO2/Doped-111/Ov1/Fir-2/Ba/M-H/ads
+  72 F= -.63870070E+03 E0= -.63870070E+03  d E =-.854685E-03  mag=     1.0000
+CeO2/Doped-111/Ov1/Fir-2/Ba/M-2H/ads
+ 207 F= -.64155754E+03 E0= -.64155754E+03  d E =-.532346E-03  mag=     0.0000
+CeO2/Doped-111/Ov1/Fir-2/Al/M/ads
+  49 F= -.63654602E+03 E0= -.63654602E+03  d E =-.381369E-02  mag=     1.0000
+CeO2/Doped-111/Ov1/Fir-2/Al/M-H/ads
+  40 F= -.64169960E+03 E0= -.64169960E+03  d E =-.252060E-02  mag=     0.0000
+CeO2/Doped-111/Ov1/Fir-2/Al/M-2H/ads
+ 114 F= -.64389618E+03 E0= -.64389618E+03  d E =-.743387E-03  mag=     1.0000
+CeO2/Doped-111/Ov1/Fir-2/Ti/M/ads
+  38 F= -.64183453E+03 E0= -.64183453E+03  d E =-.272887E-02  mag=     2.0000
+CeO2/Doped-111/Ov1/Fir-2/Ti/M-H/ads
+  82 F= -.64724457E+03 E0= -.64724457E+03  d E =-.736340E-03  mag=     3.0000
+CeO2/Doped-111/Ov1/Fir-2/Ti/M-2H/ads
+ 114 F= -.64917956E+03 E0= -.64917956E+03  d E =-.840073E-03  mag=    -0.0000
+CeO2/Doped-111/Ov1/Fir-2/Mg/M/ads
+  69 F= -.63317433E+03 E0= -.63317433E+03  d E =-.181616E-02  mag=     0.0000
+CeO2/Doped-111/Ov1/Fir-2/Mg/M-H/ads
+  78 F= -.63797274E+03 E0= -.63797274E+03  d E =-.757248E-03  mag=     1.0000
+CeO2/Doped-111/Ov1/Fir-2/Mg/M-2H/ads
+ 153 F= -.64035181E+03 E0= -.64035181E+03  d E =-.469457E-03  mag=     0.0000
+CeO2/Doped-111/Ov1/Fir-2/Ce/M/ads
+  23 F= -.64177908E+03 E0= -.64177908E+03  d E =-.561658E-02  mag=    -2.0000
+CeO2/Doped-111/Ov1/Fir-2/Ce/M-H/ads
+  44 F= -.64615254E+03 E0= -.64615254E+03  d E =-.199528E-02  mag=     3.0000
+CeO2/Doped-111/Ov1/Fir-2/Ce/M-2H/ads
+  52 F= -.64913630E+03 E0= -.64913630E+03  d E =-.222985E-03  mag=     2.0000
+CeO2/Doped-111/Ov1/Fir-2/Sr/M/ads
+  22 F= -.63433833E+03 E0= -.63433833E+03  d E =-.299046E-02  mag=     0.0000
+CeO2/Doped-111/Ov1/Fir-2/Sr/M-H/ads
+  46 F= -.63903191E+03 E0= -.63903191E+03  d E =-.383592E-03  mag=     1.0000
+CeO2/Doped-111/Ov1/Fir-2/Sr/M-2H/ads
+  46 F= -.64044126E+03 E0= -.64042717E+03  d E =-.356230E+00  mag=     1.0375
+CeO2/Doped-111/Ov1/Fir-2/Ga/M/ads
+  59 F= -.63302288E+03 E0= -.63302288E+03  d E =-.274097E-02  mag=     1.0000
+CeO2/Doped-111/Ov1/Fir-2/Ga/M-H/ads
+  39 F= -.63811261E+03 E0= -.63811261E+03  d E =-.115301E-02  mag=     2.0000
+CeO2/Doped-111/Ov1/Fir-2/Ga/M-2H/ads
+  66 F= -.64038097E+03 E0= -.64038097E+03  d E =-.628576E-03  mag=    -1.0000
+CeO2/Doped-111/Ov1/Fir-2/Nb/M/ads
+  44 F= -.64455649E+03 E0= -.64454904E+03  d E =-.399717E-02  mag=     3.0000
+CeO2/Doped-111/Ov1/Fir-2/Nb/M-H/ads
+ 114 F= -.64980904E+03 E0= -.64980904E+03  d E =-.631556E-03  mag=     4.0000
+CeO2/Doped-111/Ov1/Fir-2/Nb/M-2H/ads
+  85 F= -.65187538E+03 E0= -.65187538E+03  d E =-.190689E-02  mag=     3.0000
+CeO2/Doped-111/Ov1/Fir-2/Ir/M/ads
+  63 F= -.63501589E+03 E0= -.63501505E+03  d E =-.240849E-02  mag=     3.0000
+CeO2/Doped-111/Ov1/Fir-2/Ir/M-H/ads
+ 149 F= -.63980134E+03 E0= -.63980132E+03  d E =-.896238E-03  mag=     2.0000
+CeO2/Doped-111/Ov1/Fir-2/Ir/M-2H/ads
+  98 F= -.64365803E+03 E0= -.64365803E+03  d E =-.430512E-03  mag=     3.0000
+CeO2/Doped-111/Ov1/Fir-2/Ge/M/ads
+  85 F= -.63324049E+03 E0= -.63324049E+03  d E =-.382008E-02  mag=     0.0000
+CeO2/Doped-111/Ov1/Fir-2/Ge/M-H/ads
+  55 F= -.63800525E+03 E0= -.63800525E+03  d E =-.312995E-03  mag=    -1.0000
+CeO2/Doped-111/Ov1/Fir-2/Ge/M-2H/ads
+  48 F= -.64036920E+03 E0= -.64036920E+03  d E =-.494259E-03  mag=     0.0000
+CeO2/Doped-111/Ov1/Fir-2/Sc/M/ads
+  58 F= -.64089669E+03 E0= -.64089669E+03  d E =-.257927E-02  mag=     1.0000
+CeO2/Doped-111/Ov1/Fir-2/Sc/M-H/ads
+  77 F= -.64587182E+03 E0= -.64587182E+03  d E =-.367607E-03  mag=     2.0000
+CeO2/Doped-111/Ov1/Fir-2/Sc/M-2H/ads
+  92 F= -.64824603E+03 E0= -.64824603E+03  d E =-.621987E-03  mag=     1.0000
+CeO2/Doped-111/Ov1/Fir-2/Pb/M/ads
+  27 F= -.63274128E+03 E0= -.63274128E+03  d E =-.269205E-02  mag=     0.0000
+CeO2/Doped-111/Ov1/Fir-2/Pb/M-H/ads
+  50 F= -.63741123E+03 E0= -.63741123E+03  d E =-.580233E-03  mag=     1.0000
+CeO2/Doped-111/Ov1/Fir-2/Pb/M-2H/ads
+ 160 F= -.64000295E+03 E0= -.64000295E+03  d E =-.157444E-02  mag=     0.0000
+CeO2/Doped-111/Ov1/Fir-2/Mo/M/ads
+  61 F= -.64271014E+03 E0= -.64271014E+03  d E =-.274328E-02  mag=     4.0000
+CeO2/Doped-111/Ov1/Fir-2/Mo/M-H/ads
+ 126 F= -.64777508E+03 E0= -.64777508E+03  d E =-.440335E-03  mag=     5.0000
+CeO2/Doped-111/Ov1/Fir-2/Mo/M-2H/ads
+ 203 F= -.64970167E+03 E0= -.64970167E+03  d E =-.639568E-03  mag=     4.0000
+CeO2/Doped-111/Ov1/Fir-2/Fe/M/ads
+Binary file CeO2/Doped-111/Ov1/Fir-2/Fe/M/ads/print_out matches
+CeO2/Doped-111/Ov1/Fir-2/Fe/M-H/ads
+  53 F= -.64194702E+03 E0= -.64194702E+03  d E =-.404253E-03  mag=     7.0000
+CeO2/Doped-111/Ov1/Fir-2/Fe/M-2H/ads
+  68 F= -.64431998E+03 E0= -.64431998E+03  d E =-.120607E-02  mag=     4.0000
+CeO2/Doped-111/Ov1/Fir-2/Co/M/ads
+  51 F= -.63443931E+03 E0= -.63443931E+03  d E =-.390118E-02  mag=     3.0000
+CeO2/Doped-111/Ov1/Fir-2/Co/M-H/ads
+  66 F= -.63937280E+03 E0= -.63937165E+03  d E =-.217277E-02  mag=     5.9745
+CeO2/Doped-111/Ov1/Fir-2/Co/M-2H/ads
+  61 F= -.64176444E+03 E0= -.64176429E+03  d E =-.759536E-03  mag=     4.9974
+CeO2/Doped-111/Ov1/Fir-2/Pt/M/ads
+  27 F= -.63212402E+03 E0= -.63212402E+03  d E =-.189891E-02  mag=    -0.0000
+CeO2/Doped-111/Ov1/Fir-2/Pt/M-H/ads
+  43 F= -.63683110E+03 E0= -.63683110E+03  d E =-.220535E-02  mag=    -1.0000
+CeO2/Doped-111/Ov1/Fir-2/Pt/M-2H/ads
+  79 F= -.64087859E+03 E0= -.64087859E+03  d E =-.101814E-02  mag=     2.0000
+CeO2/Doped-111/Ov1/Fir-2/Ni/M/ads
+  42 F= -.63243913E+03 E0= -.63243913E+03  d E =-.201673E-02  mag=     2.0000
+CeO2/Doped-111/Ov1/Fir-2/Ni/M-H/ads
+  48 F= -.63737076E+03 E0= -.63737076E+03  d E =-.142601E-02  mag=     3.0000
+CeO2/Doped-111/Ov1/Fir-2/Ni/M-2H/ads
+  55 F= -.63847797E+03 E0= -.63847797E+03  d E =-.825032E-01  mag=     2.0000
+CeO2/Doped-111/Ov1/Fir-2/Bi/M/ads
+  69 F= -.63326058E+03 E0= -.63326058E+03  d E =-.204706E-02  mag=     1.0000
+CeO2/Doped-111/Ov1/Fir-2/Bi/M-H/ads
+  52 F= -.63800755E+03 E0= -.63800755E+03  d E =-.330366E-02  mag=    -2.0000
+CeO2/Doped-111/Ov1/Fir-2/Bi/M-2H/ads
+ 124 F= -.64074213E+03 E0= -.64074213E+03  d E =-.769146E-03  mag=    -1.0000
+CeO2/Doped-111/Ov1/Fir-2/Tl/M/ads
+  22 F= -.62940553E+03 E0= -.62940553E+03  d E =-.417940E-02  mag=     1.0000
+CeO2/Doped-111/Ov1/Fir-2/Tl/M-H/ads
+  39 F= -.63428803E+03 E0= -.63428803E+03  d E =-.122113E-02  mag=     0.0000
+CeO2/Doped-111/Ov1/Fir-2/Tl/M-2H/ads
+  99 F= -.63736413E+03 E0= -.63736413E+03  d E =-.612086E-03  mag=     1.0000
+CeO2/Doped-111/Ov1/Fir-2/Os/M/ads
+  45 F= -.63845255E+03 E0= -.63845254E+03  d E =-.236340E-02  mag=     4.0001
+CeO2/Doped-111/Ov1/Fir-2/Os/M-H/ads
+  75 F= -.64297106E+03 E0= -.64297106E+03  d E =-.101085E-02  mag=     7.0000
+CeO2/Doped-111/Ov1/Fir-2/Os/M-2H/ads
+ 109 F= -.64502240E+03 E0= -.64500885E+03  d E =-.587449E-03  mag=     5.3817
+CeO2/Doped-111/Ov1/Fir-2/Zr/M/ads
+  54 F= -.64443889E+03 E0= -.64443889E+03  d E =-.301573E-02  mag=     2.0000
+CeO2/Doped-111/Ov1/Fir-2/Zr/M-H/ads
+  51 F= -.64907552E+03 E0= -.64907552E+03  d E =-.102561E-02  mag=     3.0000
+CeO2/Doped-111/Ov1/Fir-2/Zr/M-2H/ads
+ 105 F= -.65166487E+03 E0= -.65166487E+03  d E =-.141879E-02  mag=     2.0000
+CeO2/Doped-111/Ov1/Fir-2/Cu/M/ads
+  26 F= -.63011617E+03 E0= -.63011617E+03  d E =-.311813E-02  mag=     1.0000
+CeO2/Doped-111/Ov1/Fir-2/Cu/M-H/ads
+ 100 F= -.63585673E+03 E0= -.63585673E+03  d E =-.319767E-03  mag=     0.0000
+CeO2/Doped-111/Ov1/Fir-2/Cu/M-2H/ads
+  93 F= -.63767319E+03 E0= -.63767319E+03  d E =-.145618E-02  mag=     1.0000
+CeO2/Doped-111/Ov1/Fir-2/Pd/M/ads
+  22 F= -.63151637E+03 E0= -.63151637E+03  d E =-.266495E-02  mag=     0.0000
+CeO2/Doped-111/Ov1/Fir-2/Pd/M-H/ads
+  48 F= -.63650159E+03 E0= -.63650159E+03  d E =-.578329E-03  mag=     1.0000
+CeO2/Doped-111/Ov1/Fir-2/Pd/M-2H/ads
+ 120 F= -.63943732E+03 E0= -.63943732E+03  d E =-.660178E-03  mag=     2.0000
+CeO2/Doped-111/Ov1/Fir-2/Sn/M/ads
+  29 F= -.63302626E+03 E0= -.63302626E+03  d E =-.324151E-02  mag=     0.0000
+CeO2/Doped-111/Ov1/Fir-2/Sn/M-H/ads
+  54 F= -.63781252E+03 E0= -.63781252E+03  d E =-.614889E-03  mag=     1.0000
+CeO2/Doped-111/Ov1/Fir-2/Sn/M-2H/ads
+ 109 F= -.64147436E+03 E0= -.64147436E+03  d E =-.456866E-03  mag=    -0.0000
+CeO2/Doped-111/Ov1/Fir-2/Sb/M/ads
+  80 F= -.63353610E+03 E0= -.63353610E+03  d E =-.163525E-02  mag=     1.0000
+CeO2/Doped-111/Ov1/Fir-2/Sb/M-H/ads
+  71 F= -.63849046E+03 E0= -.63849046E+03  d E =-.675528E-03  mag=     2.0000
+CeO2/Doped-111/Ov1/Fir-2/Sb/M-2H/ads
+  67 F= -.64059983E+03 E0= -.64059983E+03  d E =-.178432E-02  mag=     3.0000
+CeO2/Doped-111/Ov1/Fir-2/Au/M/ads
+  21 F= -.62878427E+03 E0= -.62878427E+03  d E =-.180219E-02  mag=     1.0000
+CeO2/Doped-111/Ov1/Fir-2/Au/M-H/ads
+  53 F= -.63362392E+03 E0= -.63362392E+03  d E =-.786593E-03  mag=     0.0000
+CeO2/Doped-111/Ov1/Fir-2/Au/M-2H/ads
+  58 F= -.63722071E+03 E0= -.63722071E+03  d E =-.707586E-03  mag=     1.0000
+CeO2/Doped-111/Ov1/Fir-2/Cr/M/ads
+  81 F= -.64021088E+03 E0= -.64021088E+03  d E =-.270026E-02  mag=    -4.0000
+CeO2/Doped-111/Ov1/Fir-2/Cr/M-H/ads
+  75 F= -.64504558E+03 E0= -.64504558E+03  d E =-.528215E-03  mag=     5.0000
+CeO2/Doped-111/Ov1/Fir-2/Cr/M-2H/ads
+  95 F= -.64715921E+03 E0= -.64715921E+03  d E =-.490990E-03  mag=     4.0000
+CeO2/Doped-111/Ov1/Fir-2/Ca/M/ads
+  19 F= -.63492353E+03 E0= -.63492353E+03  d E =-.503060E-02  mag=     0.0000
+CeO2/Doped-111/Ov1/Fir-2/Ca/M-H/ads
+  50 F= -.63968149E+03 E0= -.63968149E+03  d E =-.581121E-03  mag=    -1.0000
+CeO2/Doped-111/Ov1/Fir-2/Ca/M-2H/ads
+  79 F= -.64236314E+03 E0= -.64236314E+03  d E =-.380998E-03  mag=     0.0000
+CeO2/Doped-111/Ov1/Fir-2/In/M/ads
+  46 F= -.63204792E+03 E0= -.63204791E+03  d E =-.211978E-02  mag=     1.0000
+CeO2/Doped-111/Ov1/Fir-2/In/M-H/ads
+  48 F= -.63691650E+03 E0= -.63691650E+03  d E =-.844946E-03  mag=     2.0000
+CeO2/Doped-111/Ov1/Fir-2/In/M-2H/ads
+  96 F= -.63970334E+03 E0= -.63970334E+03  d E =-.325866E-03  mag=     1.0000
+CeO2/Doped-111/Ov1/Fir-2/Hf/M/ads
+  55 F= -.64612918E+03 E0= -.64612918E+03  d E =-.176009E-02  mag=     2.0000
+CeO2/Doped-111/Ov1/Fir-2/Hf/M-H/ads
+  67 F= -.65076349E+03 E0= -.65076349E+03  d E =-.220936E-03  mag=     3.0000
+CeO2/Doped-111/Ov1/Fir-2/Hf/M-2H/ads
+  62 F= -.65325359E+03 E0= -.65325359E+03  d E =-.128930E-02  mag=     2.0000
+CeO2/Doped-111/Ov1/Fir-2/V/M/ads
+  90 F= -.64100195E+03 E0= -.64099743E+03  d E =-.185044E-02  mag=     3.0000
+CeO2/Doped-111/Ov1/Fir-2/V/M-H/ads
+  91 F= -.64703848E+03 E0= -.64703848E+03  d E =-.517275E-03  mag=     4.0000
+CeO2/Doped-111/Ov1/Fir-2/V/M-2H/ads
+ 101 F= -.64893917E+03 E0= -.64893917E+03  d E =-.843631E-03  mag=     1.0000
+CeO2/Doped-111/Ov1/Fir-2/Mn/M/ads
+  62 F= -.63824498E+03 E0= -.63824498E+03  d E =-.154581E-02  mag=    -5.0000
+CeO2/Doped-111/Ov1/Fir-2/Mn/M-H/ads
+  60 F= -.64309576E+03 E0= -.64309576E+03  d E =-.129471E-02  mag=     6.0000
+CeO2/Doped-111/Ov1/Fir-2/Mn/M-2H/ads
+  68 F= -.64544752E+03 E0= -.64544752E+03  d E =-.929517E-03  mag=     5.0000
+CeO2/Doped-111/Ov1/Fir-2/Re/M/ads
+  40 F= -.64246589E+03 E0= -.64246589E+03  d E =-.241545E-02  mag=     5.0000
+CeO2/Doped-111/Ov1/Fir-2/Re/M-H/ads
+ 140 F= -.64731565E+03 E0= -.64731565E+03  d E =-.818537E-03  mag=     6.0000
+CeO2/Doped-111/Ov1/Fir-2/Re/M-2H/ads
+  75 F= -.64897960E+03 E0= -.64897960E+03  d E =-.817170E-03  mag=     5.0000
+CeO2/Doped-111/Ov1/Fir-2/Tc/M/ads
+  85 F= -.63922684E+03 E0= -.63922684E+03  d E =-.387814E-02  mag=     5.0000
+CeO2/Doped-111/Ov1/Fir-2/Tc/M-H/ads
+ 162 F= -.64476406E+03 E0= -.64476406E+03  d E =-.152755E-02  mag=     6.0000
+CeO2/Doped-111/Ov1/Fir-2/Tc/M-2H/ads
+  61 F= -.64671037E+03 E0= -.64671037E+03  d E =-.772381E-03  mag=     5.0000
+CeO2/Doped-111/Ov1/Fir-2/Zn/M/ads
+  40 F= -.63004300E+03 E0= -.63004300E+03  d E =-.213217E-02  mag=    -0.0000
+CeO2/Doped-111/Ov1/Fir-2/Zn/M-H/ads
+  44 F= -.63495401E+03 E0= -.63495401E+03  d E =-.131981E-02  mag=     1.0000
+CeO2/Doped-111/Ov1/Fir-2/Zn/M-2H/ads
+  61 F= -.63728796E+03 E0= -.63728796E+03  d E =-.289358E-03  mag=    -0.0000
+CeO2/Doped-111/Ov1/Fir-2/Y/M/ads
+  16 F= -.64143393E+03 E0= -.64143393E+03  d E =-.458404E-02  mag=     1.0000
+CeO2/Doped-111/Ov1/Fir-2/Y/M-H/ads
+  51 F= -.64622008E+03 E0= -.64622008E+03  d E =-.702085E-03  mag=    -2.0000
+CeO2/Doped-111/Ov1/Fir-2/Y/M-2H/ads
+  77 F= -.64911030E+03 E0= -.64911030E+03  d E =-.553247E-03  mag=     1.0000
+CeO2/Doped-111/Ov1/Fir-2/Ag/M/ads
+  30 F= -.62882373E+03 E0= -.62882373E+03  d E =-.274479E-02  mag=     1.0000
+CeO2/Doped-111/Ov1/Fir-2/Ag/M-H/ads
+  59 F= -.63410170E+03 E0= -.63410170E+03  d E =-.417200E-03  mag=    -0.0000
+CeO2/Doped-111/Ov1/Fir-2/Ag/M-2H/ads
+  50 F= -.63651893E+03 E0= -.63651893E+03  d E =-.105213E-02  mag=     1.0000
+CeO2/Doped-111/Ov1/Sec-1/W/M/ads
+  77 F= -.64671165E+03 E0= -.64671165E+03  d E =-.272703E-02  mag=     4.0000
+CeO2/Doped-111/Ov1/Sec-1/W/M-H/ads
+  62 F= -.65090994E+03 E0= -.65090994E+03  d E =-.751584E-03  mag=     5.0000
+CeO2/Doped-111/Ov1/Sec-1/W/M-2H/ads
+ 136 F= -.65291084E+03 E0= -.65291084E+03  d E =-.437646E-03  mag=     4.0000
+CeO2/Doped-111/Ov1/Sec-1/Hg/M/ads
+  33 F= -.62721387E+03 E0= -.62721387E+03  d E =-.420707E-02  mag=     0.0000
+CeO2/Doped-111/Ov1/Sec-1/Hg/M-H/ads
+  73 F= -.63191241E+03 E0= -.63191241E+03  d E =-.961734E-03  mag=     1.0000
+CeO2/Doped-111/Ov1/Sec-1/Hg/M-2H/ads
+ 118 F= -.63504973E+03 E0= -.63504973E+03  d E =-.395250E-03  mag=    -0.0000
+CeO2/Doped-111/Ov1/Sec-1/Ta/M/ads
+  45 F= -.64730475E+03 E0= -.64730475E+03  d E =-.188459E-02  mag=     3.0000
+CeO2/Doped-111/Ov1/Sec-1/Ta/M-H/ads
+ 116 F= -.65171305E+03 E0= -.65171305E+03  d E =-.625776E-03  mag=     4.0000
+CeO2/Doped-111/Ov1/Sec-1/Ta/M-2H/ads
+ 143 F= -.65280633E+03 E0= -.65280633E+03  d E =-.755399E-03  mag=     5.0000
+CeO2/Doped-111/Ov1/Sec-1/Ru/M/ads
+  50 F= -.63640695E+03 E0= -.63640695E+03  d E =-.282856E-02  mag=     2.0000
+CeO2/Doped-111/Ov1/Sec-1/Ru/M-H/ads
+  62 F= -.64052655E+03 E0= -.64052655E+03  d E =-.101404E-02  mag=     5.0000
+CeO2/Doped-111/Ov1/Sec-1/Ru/M-2H/ads
+  75 F= -.64401877E+03 E0= -.64401877E+03  d E =-.702572E-03  mag=     4.0000
+CeO2/Doped-111/Ov1/Sec-1/Cd/M/ads
+  22 F= -.62945608E+03 E0= -.62945608E+03  d E =-.409144E-02  mag=     0.0000
+CeO2/Doped-111/Ov1/Sec-1/Cd/M-H/ads
+  57 F= -.63405130E+03 E0= -.63405130E+03  d E =-.120876E-02  mag=     1.0000
+CeO2/Doped-111/Ov1/Sec-1/Cd/M-2H/ads
+ 158 F= -.63876529E+03 E0= -.63876529E+03  d E =-.657807E-03  mag=    -0.0000
+CeO2/Doped-111/Ov1/Sec-1/Rh/M/ads
+  32 F= -.63373100E+03 E0= -.63373100E+03  d E =-.313301E-02  mag=     1.0000
+CeO2/Doped-111/Ov1/Sec-1/Rh/M-H/ads
+  62 F= -.63821070E+03 E0= -.63821070E+03  d E =-.545811E-03  mag=     2.0000
+CeO2/Doped-111/Ov1/Sec-1/Rh/M-2H/ads
+  59 F= -.64207944E+03 E0= -.64207944E+03  d E =-.907524E-03  mag=     1.0000
+CeO2/Doped-111/Ov1/Sec-1/Ba/M/ads
+  81 F= -.63454384E+03 E0= -.63454384E+03  d E =-.300835E-02  mag=    -0.0000
+CeO2/Doped-111/Ov1/Sec-1/Ba/M-H/ads
+  72 F= -.63881088E+03 E0= -.63881088E+03  d E =-.375919E-03  mag=    -1.0000
+CeO2/Doped-111/Ov1/Sec-1/Ba/M-2H/ads
+  83 F= -.64005082E+03 E0= -.64005082E+03  d E =-.665017E-03  mag=     0.0000
+CeO2/Doped-111/Ov1/Sec-1/Al/M/ads
+  41 F= -.63596487E+03 E0= -.63596487E+03  d E =-.178380E-02  mag=     1.0000
+CeO2/Doped-111/Ov1/Sec-1/Al/M-H/ads
+  85 F= -.64105302E+03 E0= -.64105302E+03  d E =-.146966E-02  mag=     2.0000
+CeO2/Doped-111/Ov1/Sec-1/Al/M-2H/ads
+ 111 F= -.64216514E+03 E0= -.64216514E+03  d E =-.540344E-03  mag=     1.0000
+CeO2/Doped-111/Ov1/Sec-1/Ti/M/ads
+  50 F= -.64220877E+03 E0= -.64220877E+03  d E =-.310518E-02  mag=    -2.0000
+CeO2/Doped-111/Ov1/Sec-1/Ti/M-H/ads
+ 149 F= -.64725991E+03 E0= -.64725991E+03  d E =-.680752E-03  mag=     1.0000
+CeO2/Doped-111/Ov1/Sec-1/Ti/M-2H/ads
+ 174 F= -.64818581E+03 E0= -.64818581E+03  d E =-.274248E-03  mag=     4.0000
+CeO2/Doped-111/Ov1/Sec-1/Mg/M/ads
+  42 F= -.63309431E+03 E0= -.63309431E+03  d E =-.216539E-02  mag=    -0.0000
+CeO2/Doped-111/Ov1/Sec-1/Mg/M-H/ads
+  95 F= -.63784717E+03 E0= -.63784717E+03  d E =-.494177E-03  mag=     1.0000
+CeO2/Doped-111/Ov1/Sec-1/Mg/M-2H/ads
+ 114 F= -.64247161E+03 E0= -.64247161E+03  d E =-.337857E-03  mag=    -2.0000
+CeO2/Doped-111/Ov1/Sec-1/Ce/M/ads
+  53 F= -.64210483E+03 E0= -.64210483E+03  d E =-.325368E-02  mag=    -2.0000
+CeO2/Doped-111/Ov1/Sec-1/Ce/M-H/ads
+  60 F= -.64644105E+03 E0= -.64644105E+03  d E =-.449115E-03  mag=     3.0000
+CeO2/Doped-111/Ov1/Sec-1/Ce/M-2H/ads
+  71 F= -.64755357E+03 E0= -.64755357E+03  d E =-.622329E-03  mag=     4.0000
+CeO2/Doped-111/Ov1/Sec-1/Sr/M/ads
+  31 F= -.63465331E+03 E0= -.63465331E+03  d E =-.462625E-02  mag=    -0.0000
+CeO2/Doped-111/Ov1/Sec-1/Sr/M-H/ads
+  57 F= -.63911360E+03 E0= -.63911360E+03  d E =-.427455E-03  mag=     1.0000
+CeO2/Doped-111/Ov1/Sec-1/Sr/M-2H/ads
+  74 F= -.64030955E+03 E0= -.64030955E+03  d E =-.445777E-03  mag=     2.0000
+CeO2/Doped-111/Ov1/Sec-1/Ga/M/ads
+  33 F= -.63277711E+03 E0= -.63277711E+03  d E =-.358535E-02  mag=     1.0000
+CeO2/Doped-111/Ov1/Sec-1/Ga/M-H/ads
+  93 F= -.63771456E+03 E0= -.63771456E+03  d E =-.688246E-03  mag=     2.0000
+CeO2/Doped-111/Ov1/Sec-1/Ga/M-2H/ads
+ 101 F= -.63881719E+03 E0= -.63881719E+03  d E =-.152619E-02  mag=     1.0000
+CeO2/Doped-111/Ov1/Sec-1/Nb/M/ads
+  91 F= -.64521474E+03 E0= -.64520137E+03  d E =-.348804E-02  mag=    -3.0000
+CeO2/Doped-111/Ov1/Sec-1/Nb/M-H/ads
+  77 F= -.64974466E+03 E0= -.64974466E+03  d E =-.372917E-03  mag=     4.0000
+CeO2/Doped-111/Ov1/Sec-1/Nb/M-2H/ads
+ 188 F= -.65097264E+03 E0= -.65097264E+03  d E =-.727927E-03  mag=     5.0000
+CeO2/Doped-111/Ov1/Sec-1/Ir/M/ads
+  37 F= -.63535280E+03 E0= -.63535280E+03  d E =-.406531E-02  mag=     1.0000
+CeO2/Doped-111/Ov1/Sec-1/Ir/M-H/ads
+  53 F= -.64002028E+03 E0= -.64002028E+03  d E =-.995306E-03  mag=     2.0000
+CeO2/Doped-111/Ov1/Sec-1/Ir/M-2H/ads
+  64 F= -.64316221E+03 E0= -.64316221E+03  d E =-.854934E-03  mag=     3.0000
+CeO2/Doped-111/Ov1/Sec-1/Ge/M/ads
+  31 F= -.63326804E+03 E0= -.63326804E+03  d E =-.434436E-02  mag=    -0.0000
+CeO2/Doped-111/Ov1/Sec-1/Ge/M-H/ads
+  47 F= -.63818284E+03 E0= -.63818284E+03  d E =-.858559E-03  mag=     1.0000
+CeO2/Doped-111/Ov1/Sec-1/Ge/M-2H/ads
+ 121 F= -.64191697E+03 E0= -.64191697E+03  d E =-.123781E-02  mag=     2.0000
+CeO2/Doped-111/Ov1/Sec-1/Sc/M/ads
+  31 F= -.64090650E+03 E0= -.64090650E+03  d E =-.309345E-02  mag=     1.0000
+CeO2/Doped-111/Ov1/Sec-1/Sc/M-H/ads
+  86 F= -.64579813E+03 E0= -.64579813E+03  d E =-.309986E-03  mag=     2.0000
+CeO2/Doped-111/Ov1/Sec-1/Sc/M-2H/ads
+  78 F= -.64690677E+03 E0= -.64690677E+03  d E =-.571808E-03  mag=     3.0000
+CeO2/Doped-111/Ov1/Sec-1/Pb/M/ads
+  55 F= -.63278683E+03 E0= -.63278683E+03  d E =-.289060E-02  mag=     0.0000
+CeO2/Doped-111/Ov1/Sec-1/Pb/M-H/ads
+  69 F= -.63749288E+03 E0= -.63749288E+03  d E =-.713505E-03  mag=    -1.0000
+CeO2/Doped-111/Ov1/Sec-1/Pb/M-2H/ads
+  59 F= -.63870257E+03 E0= -.63870257E+03  d E =-.217711E-03  mag=     0.0000
+CeO2/Doped-111/Ov1/Sec-1/Mo/M/ads
+  53 F= -.64332411E+03 E0= -.64332411E+03  d E =-.657911E-02  mag=     4.0000
+CeO2/Doped-111/Ov1/Sec-1/Mo/M-H/ads
+ 160 F= -.64782823E+03 E0= -.64782823E+03  d E =-.257092E-03  mag=     5.0000
+CeO2/Doped-111/Ov1/Sec-1/Mo/M-2H/ads
+ 112 F= -.64976276E+03 E0= -.64976276E+03  d E =-.515838E-03  mag=     4.0000
+CeO2/Doped-111/Ov1/Sec-1/Fe/M/ads
+  33 F= -.63655246E+03 E0= -.63655246E+03  d E =-.370492E-02  mag=    -4.0000
+CeO2/Doped-111/Ov1/Sec-1/Fe/M-H/ads
+ 174 F= -.64199273E+03 E0= -.64199273E+03  d E =-.642193E-03  mag=     7.0000
+CeO2/Doped-111/Ov1/Sec-1/Fe/M-2H/ads
+ 163 F= -.64400066E+03 E0= -.64400066E+03  d E =-.106034E-02  mag=    -4.0000
+CeO2/Doped-111/Ov1/Sec-1/Co/M/ads
+  35 F= -.63410100E+03 E0= -.63410100E+03  d E =-.452807E-02  mag=     3.0000
+CeO2/Doped-111/Ov1/Sec-1/Co/M-H/ads
+ 120 F= -.63955630E+03 E0= -.63955624E+03  d E =-.613477E-03  mag=     2.0000
+CeO2/Doped-111/Ov1/Sec-1/Co/M-2H/ads
+ 155 F= -.64182194E+03 E0= -.64182192E+03  d E =-.410979E-03  mag=    -1.0000
+CeO2/Doped-111/Ov1/Sec-1/Pt/M/ads
+  62 F= -.63248385E+03 E0= -.63248385E+03  d E =-.261919E-02  mag=    -0.0000
+CeO2/Doped-111/Ov1/Sec-1/Pt/M-H/ads
+  59 F= -.63704280E+03 E0= -.63704280E+03  d E =-.103925E-02  mag=     1.0000
+CeO2/Doped-111/Ov1/Sec-1/Pt/M-2H/ads
+  58 F= -.64031387E+03 E0= -.64031387E+03  d E =-.687780E-02  mag=     2.0000
+CeO2/Doped-111/Ov1/Sec-1/Ni/M/ads
+  70 F= -.63335048E+03 E0= -.63335048E+03  d E =-.184740E-02  mag=     0.0000
+CeO2/Doped-111/Ov1/Sec-1/Ni/M-H/ads
+  75 F= -.63817600E+03 E0= -.63817600E+03  d E =-.432776E-03  mag=     1.0000
+CeO2/Doped-111/Ov1/Sec-1/Ni/M-2H/ads
+ 177 F= -.64265963E+03 E0= -.64265963E+03  d E =-.701245E-03  mag=     2.0000
+CeO2/Doped-111/Ov1/Sec-1/Bi/M/ads
+  16 F= -.63313083E+03 E0= -.63313083E+03  d E =-.544837E-02  mag=     1.0000
+CeO2/Doped-111/Ov1/Sec-1/Bi/M-H/ads
+  39 F= -.63810664E+03 E0= -.63810664E+03  d E =-.169029E-02  mag=    -0.0000
+CeO2/Doped-111/Ov1/Sec-1/Bi/M-2H/ads
+  80 F= -.63989016E+03 E0= -.63989016E+03  d E =-.986248E-03  mag=    -1.0000
+CeO2/Doped-111/Ov1/Sec-1/Tl/M/ads
+  49 F= -.62973329E+03 E0= -.62973329E+03  d E =-.140159E-02  mag=     1.0000
+CeO2/Doped-111/Ov1/Sec-1/Tl/M-H/ads
+  50 F= -.63440554E+03 E0= -.63440554E+03  d E =-.572568E-03  mag=     2.0000
+CeO2/Doped-111/Ov1/Sec-1/Tl/M-2H/ads
+  79 F= -.63682629E+03 E0= -.63682629E+03  d E =-.617001E-03  mag=     1.0000
+CeO2/Doped-111/Ov1/Sec-1/Os/M/ads
+ 102 F= -.63954405E+03 E0= -.63954405E+03  d E =-.147017E-02  mag=     2.0000
+CeO2/Doped-111/Ov1/Sec-1/Os/M-H/ads
+  70 F= -.64337369E+03 E0= -.64337369E+03  d E =-.116742E-02  mag=     5.0000
+CeO2/Doped-111/Ov1/Sec-1/Os/M-2H/ads
+  65 F= -.64573636E+03 E0= -.64573636E+03  d E =-.111401E-02  mag=     4.0000
+CeO2/Doped-111/Ov1/Sec-1/Zr/M/ads
+  42 F= -.64428892E+03 E0= -.64428850E+03  d E =-.300666E-02  mag=    -0.0087
+CeO2/Doped-111/Ov1/Sec-1/Zr/M-H/ads
+  78 F= -.64890986E+03 E0= -.64890986E+03  d E =-.903156E-03  mag=     1.0000
+CeO2/Doped-111/Ov1/Sec-1/Zr/M-2H/ads
+  80 F= -.65021047E+03 E0= -.65021047E+03  d E =-.543736E-03  mag=     2.0000
+CeO2/Doped-111/Ov1/Sec-1/Cu/M/ads
+  36 F= -.63044269E+03 E0= -.63044269E+03  d E =-.331841E-02  mag=     1.0000
+CeO2/Doped-111/Ov1/Sec-1/Cu/M-H/ads
+  66 F= -.63511197E+03 E0= -.63511197E+03  d E =-.126199E-02  mag=     0.0000
+CeO2/Doped-111/Ov1/Sec-1/Cu/M-2H/ads
+ 183 F= -.64001516E+03 E0= -.64001516E+03  d E =-.496370E-03  mag=     1.0000
+CeO2/Doped-111/Ov1/Sec-1/Pd/M/ads
+  38 F= -.63120629E+03 E0= -.63120611E+03  d E =-.221523E-02  mag=     1.9970
+CeO2/Doped-111/Ov1/Sec-1/Pd/M-H/ads
+  35 F= -.63571995E+03 E0= -.63571995E+03  d E =-.149942E-02  mag=     1.0000
+CeO2/Doped-111/Ov1/Sec-1/Pd/M-2H/ads
+  91 F= -.63925211E+03 E0= -.63925211E+03  d E =-.602334E-03  mag=    -0.0000
+CeO2/Doped-111/Ov1/Sec-1/Sn/M/ads
+  59 F= -.63439026E+03 E0= -.63439026E+03  d E =-.286511E-02  mag=     2.0000
+CeO2/Doped-111/Ov1/Sec-1/Sn/M-H/ads
+  70 F= -.63888085E+03 E0= -.63888085E+03  d E =-.697374E-03  mag=     3.0000
+CeO2/Doped-111/Ov1/Sec-1/Sn/M-2H/ads
+ 139 F= -.64312633E+03 E0= -.64312633E+03  d E =-.762456E-03  mag=     4.0000
+CeO2/Doped-111/Ov1/Sec-1/Sb/M/ads
+  41 F= -.63335685E+03 E0= -.63335685E+03  d E =-.302262E-02  mag=    -1.0000
+CeO2/Doped-111/Ov1/Sec-1/Sb/M-H/ads
+  71 F= -.63851439E+03 E0= -.63851439E+03  d E =-.392149E-03  mag=    -0.0000
+CeO2/Doped-111/Ov1/Sec-1/Sb/M-2H/ads
+  79 F= -.64008207E+03 E0= -.64008207E+03  d E =-.666116E-03  mag=     1.0000
+CeO2/Doped-111/Ov1/Sec-1/Au/M/ads
+  64 F= -.62899699E+03 E0= -.62899699E+03  d E =-.123821E-02  mag=     1.0000
+CeO2/Doped-111/Ov1/Sec-1/Au/M-H/ads
+  55 F= -.63358067E+03 E0= -.63358067E+03  d E =-.479934E-03  mag=     0.0000
+CeO2/Doped-111/Ov1/Sec-1/Au/M-2H/ads
+ 110 F= -.63712190E+03 E0= -.63712190E+03  d E =-.244791E-03  mag=     1.0000
+CeO2/Doped-111/Ov1/Sec-1/Cr/M/ads
+  56 F= -.63996689E+03 E0= -.63996689E+03  d E =-.152132E-02  mag=    -4.0000
+CeO2/Doped-111/Ov1/Sec-1/Cr/M-H/ads
+  88 F= -.64476165E+03 E0= -.64476165E+03  d E =-.412562E-03  mag=     1.0000
+CeO2/Doped-111/Ov1/Sec-1/Cr/M-2H/ads
+  81 F= -.64614989E+03 E0= -.64614989E+03  d E =-.837027E-03  mag=    -0.0000
+CeO2/Doped-111/Ov1/Sec-1/Ca/M/ads
+  39 F= -.63519071E+03 E0= -.63519071E+03  d E =-.242063E-02  mag=     0.0000
+CeO2/Doped-111/Ov1/Sec-1/Ca/M-H/ads
+  68 F= -.63970172E+03 E0= -.63970172E+03  d E =-.127980E-02  mag=     1.0000
+CeO2/Doped-111/Ov1/Sec-1/Ca/M-2H/ads
+  70 F= -.64086257E+03 E0= -.64086257E+03  d E =-.976309E-03  mag=     2.0000
+CeO2/Doped-111/Ov1/Sec-1/In/M/ads
+  23 F= -.63227575E+03 E0= -.63227575E+03  d E =-.574863E-02  mag=     1.0000
+CeO2/Doped-111/Ov1/Sec-1/In/M-H/ads
+  60 F= -.63706395E+03 E0= -.63706395E+03  d E =-.439464E-03  mag=     0.0000
+CeO2/Doped-111/Ov1/Sec-1/In/M-2H/ads
+  62 F= -.63819202E+03 E0= -.63819202E+03  d E =-.147196E-02  mag=     3.0000
+CeO2/Doped-111/Ov1/Sec-1/Hf/M/ads
+  58 F= -.64640252E+03 E0= -.64640252E+03  d E =-.282796E-02  mag=     2.0000
+CeO2/Doped-111/Ov1/Sec-1/Hf/M-H/ads
+ 105 F= -.65095124E+03 E0= -.65095124E+03  d E =-.424849E-03  mag=     1.0000
+CeO2/Doped-111/Ov1/Sec-1/Hf/M-2H/ads
+  74 F= -.65205190E+03 E0= -.65205190E+03  d E =-.725033E-03  mag=     4.0000
+CeO2/Doped-111/Ov1/Sec-1/V/M/ads
+  50 F= -.64180635E+03 E0= -.64180230E+03  d E =-.299989E-02  mag=     3.0000
+CeO2/Doped-111/Ov1/Sec-1/V/M-H/ads
+ 146 F= -.64698891E+03 E0= -.64698891E+03  d E =-.603637E-03  mag=     4.0000
+CeO2/Doped-111/Ov1/Sec-1/V/M-2H/ads
+ 148 F= -.64785166E+03 E0= -.64785166E+03  d E =-.292309E-03  mag=     5.0000
+CeO2/Doped-111/Ov1/Sec-1/Mn/M/ads
+  32 F= -.63811324E+03 E0= -.63811324E+03  d E =-.369861E-02  mag=    -5.0000
+CeO2/Doped-111/Ov1/Sec-1/Mn/M-H/ads
+ 112 F= -.64289144E+03 E0= -.64289144E+03  d E =-.123455E-02  mag=    -4.0000
+CeO2/Doped-111/Ov1/Sec-1/Mn/M-2H/ads
+  90 F= -.64566722E+03 E0= -.64566722E+03  d E =-.743706E-03  mag=    -3.0000
+CeO2/Doped-111/Ov1/Sec-1/Re/M/ads
+  52 F= -.64312186E+03 E0= -.64312186E+03  d E =-.212561E-02  mag=     5.0000
+CeO2/Doped-111/Ov1/Sec-1/Re/M-H/ads
+  65 F= -.64746990E+03 E0= -.64746990E+03  d E =-.112241E-02  mag=     6.0000
+CeO2/Doped-111/Ov1/Sec-1/Re/M-2H/ads
+ 203 F= -.65009840E+03 E0= -.65009840E+03  d E =-.539940E-03  mag=     5.0000
+CeO2/Doped-111/Ov1/Sec-1/Tc/M/ads
+ 103 F= -.64056337E+03 E0= -.64056337E+03  d E =-.326161E-02  mag=     1.0000
+CeO2/Doped-111/Ov1/Sec-1/Tc/M-H/ads
+  53 F= -.64469724E+03 E0= -.64469724E+03  d E =-.189861E-02  mag=     6.0000
+CeO2/Doped-111/Ov1/Sec-1/Tc/M-2H/ads
+ 100 F= -.64581026E+03 E0= -.64581026E+03  d E =-.298228E-03  mag=     5.0000
+CeO2/Doped-111/Ov1/Sec-1/Zn/M/ads
+  62 F= -.62982164E+03 E0= -.62982164E+03  d E =-.247521E-02  mag=    -0.0000
+CeO2/Doped-111/Ov1/Sec-1/Zn/M-H/ads
+ 153 F= -.63452885E+03 E0= -.63452885E+03  d E =-.122706E-02  mag=     1.0000
+CeO2/Doped-111/Ov1/Sec-1/Zn/M-2H/ads
+ 212 F= -.63927409E+03 E0= -.63927409E+03  d E =-.291312E-03  mag=     2.0000
+CeO2/Doped-111/Ov1/Sec-1/Y/M/ads
+  48 F= -.64174091E+03 E0= -.64174091E+03  d E =-.455357E-02  mag=     1.0000
+CeO2/Doped-111/Ov1/Sec-1/Y/M-H/ads
+  73 F= -.64653985E+03 E0= -.64653985E+03  d E =-.175264E-02  mag=     2.0000
+CeO2/Doped-111/Ov1/Sec-1/Y/M-2H/ads
+  66 F= -.64749197E+03 E0= -.64749197E+03  d E =-.723523E-03  mag=     1.0000
+CeO2/Doped-111/Ov1/Sec-1/Ag/M/ads
+  27 F= -.62900535E+03 E0= -.62900535E+03  d E =-.369453E-02  mag=     1.0000
+CeO2/Doped-111/Ov1/Sec-1/Ag/M-H/ads
+  41 F= -.63404037E+03 E0= -.63404037E+03  d E =-.116610E-02  mag=    -0.0000
+CeO2/Doped-111/Ov1/Sec-1/Ag/M-2H/ads
+  77 F= -.63633162E+03 E0= -.63633162E+03  d E =-.783343E-03  mag=     1.0000
+CeO2/Doped-111/Ov0/None/W/M/ads
+  29 F= -.65183830E+03 E0= -.65182483E+03  d E =-.386879E-02  mag=     2.0000
+CeO2/Doped-111/Ov0/None/W/M-H/ads
+  83 F= -.65707698E+03 E0= -.65707698E+03  d E =-.740593E-03  mag=     3.0000
+CeO2/Doped-111/Ov0/None/W/M-2H/ads
+ 100 F= -.65836113E+03 E0= -.65836113E+03  d E =-.310329E-03  mag=     4.0000
+CeO2/Doped-111/Ov0/None/Hg/M/ads
+  21 F= -.63135044E+03 E0= -.63135044E+03  d E =-.332296E-02  mag=     2.0000
+CeO2/Doped-111/Ov0/None/Hg/M-H/ads
+  59 F= -.63731345E+03 E0= -.63731345E+03  d E =-.450607E-03  mag=     1.0000
+CeO2/Doped-111/Ov0/None/Hg/M-2H/ads
+ 158 F= -.64305463E+03 E0= -.64305463E+03  d E =-.936057E-03  mag=     0.0000
+CeO2/Doped-111/Ov0/None/Ta/M/ads
+  40 F= -.65300546E+03 E0= -.65299166E+03  d E =-.191135E-02  mag=     1.0000
+CeO2/Doped-111/Ov0/None/Ta/M-H/ads
+  68 F= -.65823621E+03 E0= -.65823621E+03  d E =-.698261E-03  mag=    -0.0000
+CeO2/Doped-111/Ov0/None/Ta/M-2H/ads
+  52 F= -.65929430E+03 E0= -.65929430E+03  d E =-.525509E-03  mag=     3.0000
+CeO2/Doped-111/Ov0/None/Ru/M/ads
+  20 F= -.64273119E+03 E0= -.64271726E+03  d E =-.531779E-02  mag=     2.0000
+CeO2/Doped-111/Ov0/None/Ru/M-H/ads
+  56 F= -.64770018E+03 E0= -.64770018E+03  d E =-.740675E-03  mag=     1.0000
+CeO2/Doped-111/Ov0/None/Ru/M-2H/ads
+  42 F= -.65054131E+03 E0= -.65054131E+03  d E =-.172490E-02  mag=     0.0000
+CeO2/Doped-111/Ov0/None/Cd/M/ads
+  34 F= -.63341073E+03 E0= -.63341055E+03  d E =-.396914E-02  mag=    -2.0000
+CeO2/Doped-111/Ov0/None/Cd/M-H/ads
+  38 F= -.63943056E+03 E0= -.63943003E+03  d E =-.652075E-03  mag=     1.0000
+CeO2/Doped-111/Ov0/None/Cd/M-2H/ads
+ 114 F= -.64542044E+03 E0= -.64542044E+03  d E =-.397960E-03  mag=     0.0000
+CeO2/Doped-111/Ov0/None/Rh/M/ads
+  46 F= -.64015254E+03 E0= -.64015251E+03  d E =-.139289E-02  mag=     1.0000
+CeO2/Doped-111/Ov0/None/Rh/M-H/ads
+  56 F= -.64516894E+03 E0= -.64516894E+03  d E =-.252825E-03  mag=    -0.0000
+CeO2/Doped-111/Ov0/None/Rh/M-2H/ads
+  68 F= -.64829958E+03 E0= -.64829958E+03  d E =-.131870E-02  mag=     1.0000
+CeO2/Doped-111/Ov0/None/Ba/M/ads
+  27 F= -.63841204E+03 E0= -.63839845E+03  d E =-.363152E-02  mag=    -1.9908
+CeO2/Doped-111/Ov0/None/Ba/M-H/ads
+  71 F= -.64451745E+03 E0= -.64451648E+03  d E =-.272296E-03  mag=    -0.9985
+CeO2/Doped-111/Ov0/None/Ba/M-2H/ads
+  71 F= -.64566346E+03 E0= -.64566303E+03  d E =-.561606E-03  mag=     1.9992
+CeO2/Doped-111/Ov0/None/Al/M/ads
+  45 F= -.64098672E+03 E0= -.64097265E+03  d E =-.775603E-02  mag=    -1.0000
+CeO2/Doped-111/Ov0/None/Al/M-H/ads
+  67 F= -.64703990E+03 E0= -.64703990E+03  d E =-.268739E-03  mag=     0.0000
+CeO2/Doped-111/Ov0/None/Al/M-2H/ads
+ 100 F= -.64839996E+03 E0= -.64839996E+03  d E =-.103291E-02  mag=     1.0000
+CeO2/Doped-111/Ov0/None/Ti/M/ads
+  56 F= -.64825389E+03 E0= -.64825389E+03  d E =-.370171E-02  mag=    -0.0000
+CeO2/Doped-111/Ov0/None/Ti/M-H/ads
+ 119 F= -.65328038E+03 E0= -.65328038E+03  d E =-.532830E-03  mag=     1.0000
+CeO2/Doped-111/Ov0/None/Ti/M-2H/ads
+  71 F= -.65490303E+03 E0= -.65490303E+03  d E =-.101316E-02  mag=     0.0000
+CeO2/Doped-111/Ov0/None/Mg/M/ads
+  18 F= -.63678976E+03 E0= -.63677224E+03  d E =-.404714E-02  mag=     2.0000
+CeO2/Doped-111/Ov0/None/Mg/M-H/ads
+  98 F= -.64311585E+03 E0= -.64311585E+03  d E =-.515876E-03  mag=     1.0000
+CeO2/Doped-111/Ov0/None/Mg/M-2H/ads
+ 144 F= -.64923924E+03 E0= -.64923924E+03  d E =-.128247E-02  mag=    -0.0000
+CeO2/Doped-111/Ov0/None/Ce/M/ads
+   7 F= -.64924320E+03 E0= -.64924320E+03  d E =-.300283E-02  mag=     0.0000
+CeO2/Doped-111/Ov0/None/Ce/M-H/ads
+  50 F= -.65374280E+03 E0= -.65374280E+03  d E =-.260333E-03  mag=     1.0000
+CeO2/Doped-111/Ov0/None/Ce/M-2H/ads
+ 103 F= -.65608543E+03 E0= -.65608543E+03  d E =-.879823E-03  mag=     0.0000
+CeO2/Doped-111/Ov0/None/Sr/M/ads
+  19 F= -.63856458E+03 E0= -.63854468E+03  d E =-.562027E-02  mag=     1.9475
+CeO2/Doped-111/Ov0/None/Sr/M-H/ads
+  57 F= -.64473733E+03 E0= -.64473002E+03  d E =-.606670E-03  mag=     0.9625
+CeO2/Doped-111/Ov0/None/Sr/M-2H/ads
+  50 F= -.64587493E+03 E0= -.64586868E+03  d E =-.165040E-02  mag=     1.9738
+CeO2/Doped-111/Ov0/None/Ga/M/ads
+  46 F= -.63781938E+03 E0= -.63780515E+03  d E =-.155095E-02  mag=     1.0000
+CeO2/Doped-111/Ov0/None/Ga/M-H/ads
+  71 F= -.64382961E+03 E0= -.64382961E+03  d E =-.902800E-03  mag=     0.0000
+CeO2/Doped-111/Ov0/None/Ga/M-2H/ads
+  80 F= -.64525370E+03 E0= -.64525370E+03  d E =-.756458E-03  mag=     1.0000
+CeO2/Doped-111/Ov0/None/Nb/M/ads
+  36 F= -.65096834E+03 E0= -.65095371E+03  d E =-.347405E-02  mag=     1.0000
+CeO2/Doped-111/Ov0/None/Nb/M-H/ads
+  56 F= -.65620117E+03 E0= -.65620117E+03  d E =-.836900E-03  mag=    -0.0000
+CeO2/Doped-111/Ov0/None/Nb/M-2H/ads
+ 123 F= -.65725945E+03 E0= -.65725945E+03  d E =-.326733E-03  mag=     1.0000
+CeO2/Doped-111/Ov0/None/Ir/M/ads
+  37 F= -.64161586E+03 E0= -.64161564E+03  d E =-.268039E-02  mag=     1.0000
+CeO2/Doped-111/Ov0/None/Ir/M-H/ads
+  52 F= -.64620190E+03 E0= -.64620190E+03  d E =-.347000E-03  mag=     0.0000
+CeO2/Doped-111/Ov0/None/Ir/M-2H/ads
+  57 F= -.64995586E+03 E0= -.64995586E+03  d E =-.223850E-02  mag=     1.0000
+CeO2/Doped-111/Ov0/None/Ge/M/ads
+  42 F= -.64065499E+03 E0= -.64065499E+03  d E =-.191273E-02  mag=    -0.0000
+CeO2/Doped-111/Ov0/None/Ge/M-H/ads
+  65 F= -.64505687E+03 E0= -.64505687E+03  d E =-.490463E-03  mag=     1.0000
+CeO2/Doped-111/Ov0/None/Ge/M-2H/ads
+ 109 F= -.64616032E+03 E0= -.64616032E+03  d E =-.968449E-03  mag=     0.0000
+CeO2/Doped-111/Ov0/None/Sc/M/ads
+  12 F= -.64619105E+03 E0= -.64618040E+03  d E =-.640733E-02  mag=     1.0000
+CeO2/Doped-111/Ov0/None/Sc/M-H/ads
+  38 F= -.65244207E+03 E0= -.65244207E+03  d E =-.334643E-03  mag=    -0.0000
+CeO2/Doped-111/Ov0/None/Sc/M-2H/ads
+  83 F= -.65365288E+03 E0= -.65365288E+03  d E =-.561295E-03  mag=     1.0000
+CeO2/Doped-111/Ov0/None/Pb/M/ads
+  11 F= -.63851135E+03 E0= -.63851135E+03  d E =-.319118E-02  mag=    -0.0000
+CeO2/Doped-111/Ov0/None/Pb/M-H/ads
+  42 F= -.64343629E+03 E0= -.64343627E+03  d E =-.266178E-03  mag=    -0.9998
+CeO2/Doped-111/Ov0/None/Pb/M-2H/ads
+  85 F= -.64585252E+03 E0= -.64585252E+03  d E =-.860288E-03  mag=    -0.0000
+CeO2/Doped-111/Ov0/None/Mo/M/ads
+  56 F= -.64863447E+03 E0= -.64862143E+03  d E =-.121987E-02  mag=     2.0000
+CeO2/Doped-111/Ov0/None/Mo/M-H/ads
+  60 F= -.65372000E+03 E0= -.65372000E+03  d E =-.183445E-02  mag=     3.0000
+CeO2/Doped-111/Ov0/None/Mo/M-2H/ads
+  98 F= -.65620983E+03 E0= -.65620983E+03  d E =-.117503E-02  mag=     2.0000
+CeO2/Doped-111/Ov0/None/Fe/M/ads
+  95 F= -.64255168E+03 E0= -.64253759E+03  d E =-.231209E-02  mag=     4.0000
+CeO2/Doped-111/Ov0/None/Fe/M-H/ads
+  50 F= -.64827533E+03 E0= -.64827533E+03  d E =-.304369E-03  mag=    -5.0000
+CeO2/Doped-111/Ov0/None/Fe/M-2H/ads
+  44 F= -.65075847E+03 E0= -.65075847E+03  d E =-.750263E-03  mag=     4.0000
+CeO2/Doped-111/Ov0/None/Co/M/ads
+  52 F= -.64022929E+03 E0= -.64022929E+03  d E =-.972826E-03  mag=    -5.0000
+CeO2/Doped-111/Ov0/None/Co/M-H/ads
+  37 F= -.64572376E+03 E0= -.64572374E+03  d E =-.231086E-03  mag=     4.0000
+CeO2/Doped-111/Ov0/None/Co/M-2H/ads
+  79 F= -.64837772E+03 E0= -.64837771E+03  d E =-.111944E-02  mag=     3.0000
+CeO2/Doped-111/Ov0/None/Pt/M/ads
+  21 F= -.63890687E+03 E0= -.63890687E+03  d E =-.412876E-02  mag=    -0.0000
+CeO2/Doped-111/Ov0/None/Pt/M-H/ads
+  60 F= -.64367832E+03 E0= -.64367832E+03  d E =-.132935E-02  mag=     1.0000
+CeO2/Doped-111/Ov0/None/Pt/M-2H/ads
+ 154 F= -.64738302E+03 E0= -.64738302E+03  d E =-.517951E-03  mag=    -0.0000
+CeO2/Doped-111/Ov0/None/Ni/M/ads
+  37 F= -.63660930E+03 E0= -.63660279E+03  d E =-.192857E-02  mag=     3.8690
+CeO2/Doped-111/Ov0/None/Ni/M-H/ads
+  53 F= -.64297418E+03 E0= -.64297418E+03  d E =-.109564E-02  mag=     3.0000
+CeO2/Doped-111/Ov0/None/Ni/M-2H/ads
+ 132 F= -.64956802E+03 E0= -.64956802E+03  d E =-.775721E-03  mag=     0.0000
+CeO2/Doped-111/Ov0/None/Bi/M/ads
+   9 F= -.63929707E+03 E0= -.63929705E+03  d E =-.189094E-02  mag=    -0.9998
+CeO2/Doped-111/Ov0/None/Bi/M-H/ads
+  37 F= -.64500839E+03 E0= -.64500839E+03  d E =-.612597E-03  mag=    -0.0000
+CeO2/Doped-111/Ov0/None/Bi/M-2H/ads
+  73 F= -.64623644E+03 E0= -.64623644E+03  d E =-.489020E-03  mag=     1.0000
+CeO2/Doped-111/Ov0/None/Tl/M/ads
+  66 F= -.63520469E+03 E0= -.63518965E+03  d E =-.359630E-02  mag=     1.0000
+CeO2/Doped-111/Ov0/None/Tl/M-H/ads
+  47 F= -.64121974E+03 E0= -.64121974E+03  d E =-.542443E-03  mag=    -0.0000
+CeO2/Doped-111/Ov0/None/Tl/M-2H/ads
+  69 F= -.64257152E+03 E0= -.64257152E+03  d E =-.617399E-03  mag=     1.0000
+CeO2/Doped-111/Ov0/None/Os/M/ads
+  37 F= -.64456768E+03 E0= -.64455441E+03  d E =-.210378E-02  mag=     2.0000
+CeO2/Doped-111/Ov0/None/Os/M-H/ads
+  48 F= -.65000203E+03 E0= -.65000203E+03  d E =-.243148E-02  mag=     5.0000
+CeO2/Doped-111/Ov0/None/Os/M-2H/ads
+  70 F= -.65300693E+03 E0= -.65300693E+03  d E =-.969273E-03  mag=     4.0000
+CeO2/Doped-111/Ov0/None/Zr/M/ads
+  24 F= -.65123695E+03 E0= -.65123695E+03  d E =-.298576E-02  mag=     0.0000
+CeO2/Doped-111/Ov0/None/Zr/M-H/ads
+  67 F= -.65594866E+03 E0= -.65594866E+03  d E =-.543280E-03  mag=     1.0000
+CeO2/Doped-111/Ov0/None/Zr/M-2H/ads
+  85 F= -.65709354E+03 E0= -.65709354E+03  d E =-.133768E-02  mag=     2.0000
+CeO2/Doped-111/Ov0/None/Cu/M/ads
+  41 F= -.63456712E+03 E0= -.63456712E+03  d E =-.242388E-02  mag=    -2.9999
+CeO2/Doped-111/Ov0/None/Cu/M-H/ads
+  58 F= -.64069679E+03 E0= -.64069679E+03  d E =-.118979E-02  mag=     2.0000
+CeO2/Doped-111/Ov0/None/Cu/M-2H/ads
+ 200 F= -.64714720E+03 E0= -.64714720E+03  d E =-.117313E-02  mag=     1.0000
+CeO2/Doped-111/Ov0/None/Pd/M/ads
+  22 F= -.63758302E+03 E0= -.63758302E+03  d E =-.252057E-02  mag=     0.0000
+CeO2/Doped-111/Ov0/None/Pd/M-H/ads
+  64 F= -.64248771E+03 E0= -.64248771E+03  d E =-.457443E-03  mag=    -1.0000
+CeO2/Doped-111/Ov0/None/Pd/M-2H/ads
+  70 F= -.64492056E+03 E0= -.64492056E+03  d E =-.114486E-02  mag=     2.0000
+CeO2/Doped-111/Ov0/None/Sn/M/ads
+  39 F= -.64061953E+03 E0= -.64061953E+03  d E =-.242006E-02  mag=     0.0000
+CeO2/Doped-111/Ov0/None/Sn/M-H/ads
+  79 F= -.64527033E+03 E0= -.64527033E+03  d E =-.255353E-03  mag=    -1.0000
+CeO2/Doped-111/Ov0/None/Sn/M-2H/ads
+  61 F= -.64793712E+03 E0= -.64793712E+03  d E =-.198424E-02  mag=    -0.0000
+CeO2/Doped-111/Ov0/None/Sb/M/ads
+  30 F= -.63984669E+03 E0= -.63984661E+03  d E =-.417545E-02  mag=     0.9988
+CeO2/Doped-111/Ov0/None/Sb/M-H/ads
+  52 F= -.64504588E+03 E0= -.64504588E+03  d E =-.921003E-03  mag=    -0.0000
+CeO2/Doped-111/Ov0/None/Sb/M-2H/ads
+ 119 F= -.64791606E+03 E0= -.64791606E+03  d E =-.909590E-03  mag=     1.0000
+CeO2/Doped-111/Ov0/None/Au/M/ads
+  22 F= -.63413467E+03 E0= -.63412058E+03  d E =-.925402E-03  mag=     1.0000
+CeO2/Doped-111/Ov0/None/Au/M-H/ads
+  37 F= -.63926787E+03 E0= -.63926787E+03  d E =-.807895E-03  mag=     2.0000
+CeO2/Doped-111/Ov0/None/Au/M-2H/ads
+ 119 F= -.64381090E+03 E0= -.64381090E+03  d E =-.359157E-03  mag=     1.0000
+CeO2/Doped-111/Ov0/None/Cr/M/ads
+  65 F= -.64642712E+03 E0= -.64642712E+03  d E =-.287900E-02  mag=     2.0000
+CeO2/Doped-111/Ov0/None/Cr/M-H/ads
+  67 F= -.65129303E+03 E0= -.65129303E+03  d E =-.667546E-03  mag=     3.0000
+CeO2/Doped-111/Ov0/None/Cr/M-2H/ads
+  71 F= -.65353423E+03 E0= -.65353423E+03  d E =-.495779E-03  mag=     2.0000
+CeO2/Doped-111/Ov0/None/Ca/M/ads
+  49 F= -.63908910E+03 E0= -.63907111E+03  d E =-.576709E-02  mag=    -1.9804
+CeO2/Doped-111/Ov0/None/Ca/M-H/ads
+  39 F= -.64518616E+03 E0= -.64518121E+03  d E =-.119782E-02  mag=    -0.9819
+CeO2/Doped-111/Ov0/None/Ca/M-2H/ads
+  74 F= -.64632311E+03 E0= -.64631849E+03  d E =-.697137E-03  mag=     1.9791
+CeO2/Doped-111/Ov0/None/In/M/ads
+  13 F= -.63763482E+03 E0= -.63762062E+03  d E =-.373026E-02  mag=    -1.0000
+CeO2/Doped-111/Ov0/None/In/M-H/ads
+  43 F= -.64375383E+03 E0= -.64375383E+03  d E =-.424530E-03  mag=     0.0000
+CeO2/Doped-111/Ov0/None/In/M-2H/ads
+  72 F= -.64507107E+03 E0= -.64507107E+03  d E =-.362990E-03  mag=     1.0000
+CeO2/Doped-111/Ov0/None/Hf/M/ads
+  23 F= -.65285219E+03 E0= -.65285219E+03  d E =-.270125E-02  mag=    -0.0000
+CeO2/Doped-111/Ov0/None/Hf/M-H/ads
+  72 F= -.65760432E+03 E0= -.65760432E+03  d E =-.672021E-03  mag=     1.0000
+CeO2/Doped-111/Ov0/None/Hf/M-2H/ads
+  56 F= -.65849027E+03 E0= -.65849027E+03  d E =-.876193E-03  mag=     0.0000
+CeO2/Doped-111/Ov0/None/V/M/ads
+  55 F= -.64746807E+03 E0= -.64745301E+03  d E =-.283191E-02  mag=     1.0000
+CeO2/Doped-111/Ov0/None/V/M-H/ads
+  72 F= -.65266645E+03 E0= -.65266645E+03  d E =-.284195E-03  mag=     2.0000
+CeO2/Doped-111/Ov0/None/V/M-2H/ads
+ 210 F= -.65783516E+03 E0= -.65783516E+03  d E =-.598254E-03  mag=     3.0000
+CeO2/Doped-111/Ov0/None/Mn/M/ads
+  27 F= -.64432190E+03 E0= -.64432190E+03  d E =-.282805E-02  mag=    -3.0000
+CeO2/Doped-111/Ov0/None/Mn/M-H/ads
+  62 F= -.64951917E+03 E0= -.64951917E+03  d E =-.987012E-03  mag=     4.0000
+CeO2/Doped-111/Ov0/None/Mn/M-2H/ads
+  50 F= -.65070413E+03 E0= -.65070413E+03  d E =-.163324E-02  mag=     5.0000
+CeO2/Doped-111/Ov0/None/Re/M/ads
+  57 F= -.64878713E+03 E0= -.64878694E+03  d E =-.303825E-02  mag=     3.0000
+CeO2/Doped-111/Ov0/None/Re/M-H/ads
+  63 F= -.65403735E+03 E0= -.65403735E+03  d E =-.442203E-03  mag=     4.0000
+CeO2/Doped-111/Ov0/None/Re/M-2H/ads
+  95 F= -.65526523E+03 E0= -.65526523E+03  d E =-.734784E-03  mag=     5.0000
+CeO2/Doped-111/Ov0/None/Tc/M/ads
+  22 F= -.64572175E+03 E0= -.64572175E+03  d E =-.453465E-02  mag=     3.0000
+CeO2/Doped-111/Ov0/None/Tc/M-H/ads
+  61 F= -.65061668E+03 E0= -.65061668E+03  d E =-.489600E-02  mag=     4.0000
+CeO2/Doped-111/Ov0/None/Tc/M-2H/ads
+  55 F= -.65343074E+03 E0= -.65343074E+03  d E =-.492683E-03  mag=     3.0000
+CeO2/Doped-111/Ov0/None/Zn/M/ads
+  26 F= -.63357037E+03 E0= -.63357030E+03  d E =-.407189E-02  mag=     2.0000
+CeO2/Doped-111/Ov0/None/Zn/M-H/ads
+ 121 F= -.63989418E+03 E0= -.63989418E+03  d E =-.104493E-02  mag=     1.0000
+CeO2/Doped-111/Ov0/None/Zn/M-2H/ads
+ 156 F= -.64617369E+03 E0= -.64617369E+03  d E =-.299308E-03  mag=     0.0000
+CeO2/Doped-111/Ov0/None/Y/M/ads
+   9 F= -.64738225E+03 E0= -.64737009E+03  d E =-.209309E-02  mag=    -0.9802
+CeO2/Doped-111/Ov0/None/Y/M-H/ads
+  34 F= -.65356139E+03 E0= -.65356139E+03  d E =-.689462E-03  mag=    -0.0000
+CeO2/Doped-111/Ov0/None/Y/M-2H/ads
+  57 F= -.65470667E+03 E0= -.65470667E+03  d E =-.125473E-02  mag=     1.0000
+CeO2/Doped-111/Ov0/None/Ag/M/ads
+  32 F= -.63349485E+03 E0= -.63348081E+03  d E =-.573367E-02  mag=     1.0000
+CeO2/Doped-111/Ov0/None/Ag/M-H/ads
+  34 F= -.63921053E+03 E0= -.63921053E+03  d E =-.666193E-03  mag=     2.0000
+CeO2/Doped-111/Ov0/None/Ag/M-2H/ads
+ 164 F= -.64488319E+03 E0= -.64488319E+03  d E =-.696467E-03  mag=     1.0000
