@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "如果您在研究中使用了这个软件，请引用它。"
+type: software
+title: "WJob: 催化剂研究辅助工具集"
+version: 0.1.0
+date-released: 2024-12-11
+url: "https://github.com/wukai011217/git1"
+repository-code: "https://github.com/wukai011217/git1"
+abstract: "一个用于催化剂研究的综合工具集，提供从数据收集、处理到分析的完整工作流程，包括结构分析、机器学习预测、数据可视化和不确定性估计等功能。"
+keywords:
+  - "催化剂"
+  - "材料科学"
+  - "机器学习"
+  - "DFT"
+  - "VASP"
+  - "结构分析"
+  - "不确定性量化"
+license: MIT
+authors:
+  - family-names: "wu(吴)"
+    given-names: "kai(凯)"
+    affiliation: "ECUST"
+    email: "Y20230047@mail.ecust.edu.cn"  # 请替换为您的邮箱
+preferred-citation:
+  type: software
+  title: "WJob: 催化剂研究辅助工具集"
+  authors:
+    - family-names: "wu(吴)"
+      given-names: "kai(凯)"
+      affiliation: "ECUST"
+      email: "Y20230047@mail.ecust.edu.cn"
+  year: 2024
+  url: "https://github.com/wukai011217/git1"
+  # 注意：相关学术文章正在审稿中，发表后将更新引用信息
